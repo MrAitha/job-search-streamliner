@@ -61,5 +61,14 @@
     "score": 60,
     "reason": "The role aligns well with the candidate's HR operations background and Workday expertise at the appropriate experience level, but it does not require their core SQL and Power BI skills.",
     "date": "2026-05-01"
+  },
+  {
+    "id": "in-e2e04ef720e50298",
+    "title": "HR Systems Analyst",
+    "company": "Mister Car Wash",
+    "url": "https://www.indeed.com/viewjob?jk=e2e04ef720e50298",
+    "score": 80,
+    "reason": "This role is an excellent functional match for an HR Systems Analyst, requiring HR operations and data analysis experience, with specific mentions of basic SQL and implied data visualization skills, aligning well with the candidate's mid-level experience, though Workday is not explicitly listed.",
+    "date": "2026-05-02"
   }
 ]
