@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Logic Verification</title>
+    <style>
+        .applied { opacity: 0.5; grayscale: 1; }
+        .hidden { display: none; }
+    </style>
+</head>
+<body>
+    <div id="controls">
+        <label><input type="checkbox" id="showApplied"> Show Applied</label>
+    </div>
+    <div id="jobs">
+        <div class="job" id="job1">
+            <h3>Software Engineer</h3>
+            <button onclick="toggle('job1')">Mark Applied</button>
+        </div>
+        <div class="job" id="job2">
+            <h3>Data Analyst</h3>
+            <button onclick="toggle('job2')">Mark Applied</button>
+        </div>
+    </div>
+
+    <script>
+        let applied = JSON.parse(localStorage.getItem('test_applied') || '[]');
+        let showAll = false;
+
+        function render() {
+            document.querySelectorAll('.job').forEach(div => {
+                const id = div.id;
+                const isApplied = applied.includes(id);
+                div.className = 'job' + (isApplied ? ' applied' : '');
+                if (isApplied && !showAll) {
+                    div.classList.add('hidden');
+                } else {
+                    div.classList.remove('hidden');
+                }
+                const btn = div.querySelector('button');
+                btn.innerText = isApplied ? 'APPLIED ✓' : 'MARK APPLIED';
+            });
+        }
+
+        function toggle(id) {
+            if (applied.includes(id)) {
+                applied = applied.filter(i => i !== id);
+            } else {
+                applied.push(id);
+            }
+            localStorage.setItem('test_applied', JSON.stringify(applied));
+            render();
+        }
+
+        document.getElementById('showApplied').onchange = (e) => {
+            showAll = e.target.checked;
+            render();
+        };
+
+        render();
+    </script>
+</body>
+</html>

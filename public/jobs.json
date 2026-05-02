@@ -1,0 +1,74 @@
+[
+  {
+    "id": "in-1b41a16967d28f6a",
+    "title": "Total Rewards Analyst",
+    "company": "Matrix Medical Network",
+    "url": "https://www.indeed.com/viewjob?jk=1b41a16967d28f6a",
+    "score": 80,
+    "reason": "The role aligns well with the candidate's HR operations background, Workday skill, and data analytics capabilities, matching the mid-level experience sought.",
+    "date": "2026-04-27"
+  },
+  {
+    "id": "li-4383883079",
+    "title": "HRIS Analyst III \u2013 Timekeeping",
+    "company": "Safeway",
+    "url": "https://www.linkedin.com/jobs/view/4383883079",
+    "score": 75,
+    "reason": "The HRIS Analyst role is a strong match for the candidate's background, though specific tool requirements and the 'Analyst III' experience level are undefined.",
+    "date": "2026-04-27"
+  },
+  {
+    "id": "in-45bf5a0b026c1496",
+    "title": "People Operations Specialist [Remote-US]",
+    "company": "Quanata",
+    "url": "https://www.indeed.com/viewjob?jk=45bf5a0b026c1496",
+    "score": 65,
+    "reason": "The role aligns well with HR operations and HRIS reporting, and the experience level is a good match; however, the job description does not explicitly mention the core tools SQL, Power BI, or Workday, incurring a penalty as per the scoring directives.",
+    "date": "2026-04-28"
+  },
+  {
+    "id": "li-4236570199",
+    "title": "HRIS Analyst",
+    "company": "MillerKnoll",
+    "url": "https://www.linkedin.com/jobs/view/4236570199",
+    "score": 75,
+    "reason": "The job title is a perfect match for a target role and HR operations background, though specific core technical skills are not detailed.",
+    "date": "2026-04-28"
+  },
+  {
+    "id": "li-4343607844",
+    "title": "HRIS",
+    "company": "Foundever",
+    "url": "https://www.linkedin.com/jobs/view/4343607844",
+    "score": 65,
+    "reason": "The HRIS job title aligns well with the candidate's target roles and HR operations background, but the missing description prevents specific verification of core skills (SQL, Power BI, Workday) and experience level.",
+    "date": "2026-04-28"
+  },
+  {
+    "id": "in-19b682c495a6f548",
+    "title": "HRIS Analyst",
+    "company": "First National Bank",
+    "url": "https://www.indeed.com/viewjob?jk=19b682c495a6f548",
+    "score": 92,
+    "reason": "This HRIS Analyst role is an excellent match, heavily leveraging Workday skills and HR operations experience, with the required experience level falling within the candidate's range.",
+    "date": "2026-04-29"
+  },
+  {
+    "id": "in-c01a5f83c76cad26",
+    "title": "Compensation Analyst",
+    "company": "ASPCA",
+    "url": "https://www.indeed.com/viewjob?jk=c01a5f83c76cad26",
+    "score": 60,
+    "reason": "The role aligns well with the candidate's HR operations background and Workday expertise at the appropriate experience level, but it does not require their core SQL and Power BI skills.",
+    "date": "2026-05-01"
+  },
+  {
+    "id": "in-e2e04ef720e50298",
+    "title": "HR Systems Analyst",
+    "company": "Mister Car Wash",
+    "url": "https://www.indeed.com/viewjob?jk=e2e04ef720e50298",
+    "score": 80,
+    "reason": "This role is an excellent functional match for an HR Systems Analyst, requiring HR operations and data analysis experience, with specific mentions of basic SQL and implied data visualization skills, aligning well with the candidate's mid-level experience, though Workday is not explicitly listed.",
+    "date": "2026-05-02"
+  }
+]

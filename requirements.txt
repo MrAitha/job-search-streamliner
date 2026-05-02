@@ -1,0 +1,5 @@
+python-jobspy
+google-genai
+requests
+beautifulsoup4
+pandas
