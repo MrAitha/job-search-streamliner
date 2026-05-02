@@ -33,10 +33,11 @@ Because the scraping script modified `public/jobs.json`, the GitHub Action uses 
 3. Finally, it forcefully pushes only the contents of the `dist` folder to a special branch named `gh-pages`.
 
 ## 3. The Frontend Client
-When a user visits the GitHub Pages URL, they are served the compiled React app. 
+When a user visits the GitHub Pages URL, they are served the compiled React app.
 1. `App.jsx` executes a lightweight `fetch('jobs.json')` request.
-2. It parses the JSON and renders it into a Tailwind-styled Kanban board.
-3. State management allows the user to drag-and-drop or move jobs between columns (Note: currently, column state is local to the browser session. To persist column movements across devices, LocalStorage or a lightweight Backend-as-a-Service like Firebase would be required).
+2. It parses the JSON and renders it into a responsive 2-column card grid, sorted by date (newest first) then score (highest first).
+3. Each card shows the job title, company, AI match reason, score (color-coded green ≥90 / blue ≥80 / yellow otherwise), and a "New" badge for jobs posted within the last 2 days.
+4. Users can click **Mark Applied** to hide a job from the default view. Applied state is persisted in **LocalStorage**, so it survives page refreshes without needing a backend.
 
 ## Security Considerations
 - All sensitive API keys (`GEMINI_API_KEY`, `RESEND_API_KEY`) are stored securely as GitHub Actions Secrets and are **never** exposed to the frontend or committed to the codebase.

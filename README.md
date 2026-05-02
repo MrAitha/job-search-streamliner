@@ -3,10 +3,10 @@
 A zero-cost, automated, and serverless Progressive Web App (PWA) designed to streamline the job search process. This tool automatically scrapes job boards, uses AI to grade jobs against a candidate's specific profile, emails the best matches, and displays them on a mobile-friendly Kanban dashboard.
 
 ## Features
-- **Automated Scraping:** Runs daily to find new job postings from LinkedIn, Indeed, Glassdoor, and ZipRecruiter.
+- **Automated Scraping:** Runs daily to find new job postings from LinkedIn and Indeed.
 - **AI-Powered Filtering:** Uses Google's Gemini LLM to read job descriptions and assign a 0-100 "Approval Chance" score based on the candidate's skills.
 - **Email Notifications:** Automatically sends an email summarizing the highest-scoring jobs.
-- **Kanban Dashboard:** A beautiful, responsive React/Tailwind frontend to track jobs through "Applied," "Interviewing," and "Offer" columns.
+- **Job Tracker Dashboard:** A responsive React/Tailwind card grid to browse matches, mark jobs as Applied, and filter your view.
 - **Serverless Architecture:** 100% free to host using GitHub Actions and GitHub Pages.
 
 ## Technical Architecture
