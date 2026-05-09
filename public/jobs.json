@@ -70,5 +70,23 @@
     "score": 80,
     "reason": "This role is an excellent functional match for an HR Systems Analyst, requiring HR operations and data analysis experience, with specific mentions of basic SQL and implied data visualization skills, aligning well with the candidate's mid-level experience, though Workday is not explicitly listed.",
     "date": "2026-05-02"
+  },
+  {
+    "id": "in-d6cc08d7dd3c88c3",
+    "title": "HRIS/Workday Analyst - CORP",
+    "company": "Montage International",
+    "url": "https://www.indeed.com/viewjob?jk=d6cc08d7dd3c88c3",
+    "score": 70,
+    "reason": "Excellent match for Workday and HRIS analyst role with HR operations background, but lacks core SQL and Power BI requirements.",
+    "date": "2026-05-09"
+  },
+  {
+    "id": "in-af3c1e8bc1b4cd35",
+    "title": "Staff HRIS Analyst, People Technology - Workday",
+    "company": "GitLab Inc",
+    "url": "https://www.indeed.com/viewjob?jk=af3c1e8bc1b4cd35",
+    "score": 90,
+    "reason": "This role is a strong match due to its direct focus on Workday and HR operations, aligning perfectly with the candidate's core skills and background, despite not explicitly mentioning SQL or Power BI.",
+    "date": "2026-05-09"
   }
 ]
