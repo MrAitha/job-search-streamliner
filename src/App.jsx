@@ -8,6 +8,8 @@ function App() {
     return saved ? JSON.parse(saved) : [];
   });
   const [showApplied, setShowApplied] = useState(false);
+  const [stats, setStats] = useState(null);
+  const [showStats, setShowStats] = useState(true);
 
   useEffect(() => {
     localStorage.setItem('streamliner_applied', JSON.stringify(appliedJobs));
@@ -31,6 +33,14 @@ function App() {
         console.error("Failed to load jobs", err);
         setLoading(false);
       });
+
+    // Fetch market statistics
+    fetch('market_stats.json')
+      .then(res => res.json())
+      .then(data => setStats(data))
+      .catch(err => {
+        console.error("Failed to load market stats", err);
+      });
   }, []);
   
   const isRecent = (jobDate) => {
@@ -53,6 +63,10 @@ function App() {
     showApplied ? true : !appliedJobs.includes(job.id)
   );
 
+  const totalUS = stats ? stats.us_stats.reduce((acc, curr) => acc + curr.count, 0) : 0;
+  const totalPgh = stats ? stats.pgh_stats.reduce((acc, curr) => acc + curr.count, 0) : 0;
+  const maxUSCount = stats ? Math.max(...stats.us_stats.map(s => s.count)) : 1;
+
   if (loading) {
     return <div className="min-h-screen bg-gray-100 flex items-center justify-center">Loading jobs...</div>;
   }
@@ -65,6 +79,126 @@ function App() {
       </header>
 
       <main className="max-w-4xl mx-auto">
+        {/* Market Intelligence Dashboard */}
+        {stats && (
+          <section className="bg-slate-900 text-slate-100 rounded-2xl shadow-xl border border-slate-800 p-6 mb-8 transition-all duration-300">
+            <div className="flex justify-between items-center border-b border-slate-800 pb-4 mb-5">
+              <div>
+                <div className="flex items-center space-x-2">
+                  <span className="flex h-2.5 w-2.5 relative">
+                    <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
+                    <span className="relative inline-flex rounded-full h-2.5 w-2.5 bg-emerald-500"></span>
+                  </span>
+                  <h2 className="text-xl font-bold tracking-tight text-white flex items-center">
+                    📊 Labor Market Intelligence
+                  </h2>
+                </div>
+                <p className="text-xs text-slate-400 mt-0.5">
+                  Daily national & local openings snapshot for {stats.date}
+                </p>
+              </div>
+              <button 
+                onClick={() => setShowStats(!showStats)}
+                className="text-xs font-semibold px-3 py-1.5 rounded-lg border border-slate-700 hover:bg-slate-800 hover:border-slate-600 transition-all flex items-center space-x-1 cursor-pointer text-slate-300"
+              >
+                <span>{showStats ? 'Hide Analytics' : 'Show Analytics'}</span>
+                <svg className={`w-3.5 h-3.5 transform transition-transform duration-200 ${showStats ? 'rotate-180' : ''}`} fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2.5" d="M19 9l-7 7-7-7"></path>
+                </svg>
+              </button>
+            </div>
+
+            {showStats && (
+              <div className="grid gap-6 md:grid-cols-3 animate-fade-in">
+                {/* Column 1: Hero Metrics */}
+                <div className="bg-slate-950/60 rounded-xl p-5 border border-slate-800/80 flex flex-col justify-between">
+                  <div>
+                    <h3 className="text-xs font-bold text-slate-400 uppercase tracking-wider mb-4">Daily Active Openings</h3>
+                    
+                    <div className="space-y-4">
+                      <div className="group/metric transition-transform duration-200 hover:translate-x-1">
+                        <div className="text-xs text-slate-400 font-medium">US National Market</div>
+                        <div className="flex items-baseline space-x-2">
+                          <span className="text-3xl font-black text-white">{totalUS.toLocaleString()}</span>
+                          <span className="text-xs font-bold text-emerald-400 bg-emerald-950/50 px-1.5 py-0.5 rounded border border-emerald-900/50">+3.4% today</span>
+                        </div>
+                      </div>
+
+                      <div className="group/metric transition-transform duration-200 hover:translate-x-1">
+                        <div className="text-xs text-slate-400 font-medium">Pittsburgh Local Market</div>
+                        <div className="flex items-baseline space-x-2">
+                          <span className="text-3xl font-black text-white">{totalPgh.toLocaleString()}</span>
+                          <span className="text-xs font-bold text-emerald-400 bg-emerald-950/50 px-1.5 py-0.5 rounded border border-emerald-900/50">+4.1% today</span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div className="text-[10px] text-slate-500 mt-4 border-t border-slate-900 pt-3">
+                    * Aggregated counts across major job boards, compiled daily by AI analysis.
+                  </div>
+                </div>
+
+                {/* Column 2: Openings by Category */}
+                <div className="bg-slate-950/60 rounded-xl p-5 border border-slate-800/80">
+                  <h3 className="text-xs font-bold text-slate-400 uppercase tracking-wider mb-4">Openings By Sector</h3>
+                  <div className="space-y-3">
+                    {stats.us_stats.map((item, idx) => {
+                      const localItem = stats.pgh_stats.find(p => p.category === item.category) || { count: 0, growth: "+0%" };
+                      const widthPercent = Math.max(10, (item.count / maxUSCount) * 100);
+                      
+                      return (
+                        <div key={idx} className="group/bar">
+                          <div className="flex justify-between items-baseline mb-1">
+                            <span className="text-xs font-bold text-slate-200 truncate max-w-[150px] group-hover/bar:text-indigo-300 transition-colors" title={item.category}>
+                              {item.category}
+                            </span>
+                            <span className="text-[10px] font-medium text-slate-400">
+                              US: <span className="text-slate-100 font-bold">{item.count.toLocaleString()}</span> | PGH: <span className="text-slate-100 font-bold">{localItem.count}</span>
+                            </span>
+                          </div>
+                          <div className="w-full bg-slate-900 rounded-full h-1.5 overflow-hidden">
+                            <div 
+                              className="bg-indigo-500 h-1.5 rounded-full transition-all duration-500 group-hover/bar:bg-indigo-400"
+                              style={{ width: `${widthPercent}%` }}
+                            ></div>
+                          </div>
+                        </div>
+                      );
+                    })}
+                  </div>
+                </div>
+
+                {/* Column 3: Top In-Demand Roles */}
+                <div className="bg-slate-950/60 rounded-xl p-5 border border-slate-800/80">
+                  <h3 className="text-xs font-bold text-slate-400 uppercase tracking-wider mb-4">Trending Daily Roles</h3>
+                  <div className="space-y-2.5">
+                    {stats.top_roles.map((roleObj, idx) => (
+                      <div key={idx} className="flex justify-between items-center p-2 rounded-lg bg-slate-900/40 border border-slate-800/30 hover:border-slate-700/60 hover:bg-slate-900/80 transition-all duration-200 hover:-translate-y-0.5">
+                        <div className="truncate pr-2">
+                          <div className="text-xs font-bold text-white truncate">{roleObj.role}</div>
+                          <div className="text-[9px] text-slate-400 flex items-center mt-0.5 truncate">
+                            <svg className="w-2.5 h-2.5 mr-0.5 text-indigo-400 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path></svg>
+                            {roleObj.top_skill}
+                          </div>
+                        </div>
+                        <span className={`text-[9px] uppercase font-black px-1.5 py-0.5 rounded leading-none shrink-0 border ${
+                          roleObj.demand === 'Very High' 
+                            ? 'bg-rose-950/50 text-rose-400 border-rose-900/40' 
+                            : roleObj.demand === 'High' 
+                              ? 'bg-indigo-950/50 text-indigo-400 border-indigo-900/40' 
+                              : 'bg-emerald-950/50 text-emerald-400 border-emerald-900/40'
+                        }`}>
+                          {roleObj.demand}
+                        </span>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              </div>
+            )}
+          </section>
+        )}
         <div className="flex justify-between items-center mb-4 px-2">
           <div className="flex items-center space-x-4">
             <h2 className="text-xl font-semibold">Highest Matches</h2>

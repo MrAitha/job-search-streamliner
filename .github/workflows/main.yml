@@ -43,8 +43,8 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add public/jobs.json
-          git commit -m "Automated update: jobs.json" || echo "No changes to commit"
+          git add public/jobs.json public/market_stats.json
+          git commit -m "Automated update: jobs.json & market_stats.json" || echo "No changes to commit"
           git push
 
       - name: Setup Node

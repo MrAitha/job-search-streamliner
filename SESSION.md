@@ -6,6 +6,10 @@
 *   **Applied Tracking**: Implemented a "Mark Applied" feature using **LocalStorage**. Jobs are now hidden by default once marked, with a toggle to show them.
 *   **Testing Infrastructure**: Added a `tests/` directory with Python unit tests (`test_email.py`) and Selenium E2E tests (`test_frontend_e2e.py`).
 *   **Sorting & Badge Logic**: `App.jsx` sorts jobs by date (newest first) then by score descending. Cards show a color-coded left border (green ≥90, blue ≥80, yellow otherwise) and a "New" badge for jobs posted within the last 2 days. ✅ **Complete.**
+*   **Codebase Cleanup**: Removed ~185 lines of boilerplate CSS and deleted misplaced book-infographic components. ✅ **Complete.**
+*   **App Icon Integration**: Generated a professional AI-themed logo and configured `manifest.json` and `index.html` for PWA/Instant App support. ✅ **Complete.**
+*   **Documentation Alignment**: Updated `README.md` and `ARCHITECTURE.md` to match the actual implementation (Grid UI, LinkedIn + Indeed sources). ✅ **Complete.**
+*   **Git Deployment**: Pushed all recent changes to the `main` branch on GitHub. ✅ **Complete.**
 
 ## 2. Architecture & Design Decisions
 *   **Serverless Data Pipeline**: Confirmed the "Static Data" architecture where GitHub Actions update `jobs.json`, which acts as the database.
@@ -26,7 +30,7 @@
 *   `scripts/scrape.py` ✅ Working — scrapes LinkedIn + Indeed for Remote-US and Pittsburgh, PA; scores via Gemini 2.5 Flash; deduplicates by URL; filters score < 60.
 *   `App.jsx` ✅ Complete — grid layout, date+score sorting, "New" badges, color-coded score borders, LocalStorage applied tracking, show/hide toggle.
 *   `.github/workflows/main.yml` ✅ Working — runs daily at 9 AM UTC; scrapes → emails → commits `jobs.json` → builds → deploys to `gh-pages`.
-*   **Documentation gap**: `ARCHITECTURE.md` and `README.md` describe Kanban/drag-drop and list Glassdoor/ZipRecruiter as sources — both are **inaccurate** relative to actual code.
+*   **Repository Status**: ✅ **All changes pushed to main.** Frontend and documentation are now perfectly aligned.
 
 ## 5. Testing & Verification
 *   **Backend Logic**: Created `tests/test_email.py` to verify date-based filtering.
