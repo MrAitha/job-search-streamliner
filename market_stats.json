@@ -1,0 +1,84 @@
+{
+  "date": "2026-05-25",
+  "us_stats": [
+    {
+      "category": "Healthcare & Medical Services",
+      "count": 29120,
+      "growth": "+6.1%"
+    },
+    {
+      "category": "IT & Software Engineering",
+      "count": 18450,
+      "growth": "+4.5%"
+    },
+    {
+      "category": "HR & Business Operations",
+      "count": 9110,
+      "growth": "+3.4%"
+    },
+    {
+      "category": "Sales & Customer Service",
+      "count": 24280,
+      "growth": "+2.1%"
+    },
+    {
+      "category": "Administrative & Clerical",
+      "count": 15820,
+      "growth": "+1.7%"
+    }
+  ],
+  "pgh_stats": [
+    {
+      "category": "Healthcare & Medical Services",
+      "count": 642,
+      "growth": "+6.8%"
+    },
+    {
+      "category": "IT & Software Engineering",
+      "count": 395,
+      "growth": "+3.1%"
+    },
+    {
+      "category": "HR & Business Operations",
+      "count": 204,
+      "growth": "+4.2%"
+    },
+    {
+      "category": "Sales & Customer Service",
+      "count": 535,
+      "growth": "+1.9%"
+    },
+    {
+      "category": "Administrative & Clerical",
+      "count": 318,
+      "growth": "+1.1%"
+    }
+  ],
+  "top_roles": [
+    {
+      "role": "Medical Assistant",
+      "demand": "Very High",
+      "top_skill": "Clinical Support & EHR"
+    },
+    {
+      "role": "Medical Coder",
+      "demand": "High",
+      "top_skill": "ICD-10 & Medical Billing"
+    },
+    {
+      "role": "HRIS Analyst (Workday)",
+      "demand": "High",
+      "top_skill": "Workday & HR Operations"
+    },
+    {
+      "role": "IT Support Technician",
+      "demand": "Very High",
+      "top_skill": "CompTIA A+ & Troubleshooting"
+    },
+    {
+      "role": "Software Engineer",
+      "demand": "High",
+      "top_skill": "React, Node.js & SQL"
+    }
+  ]
+}
