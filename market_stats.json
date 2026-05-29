@@ -1,84 +1,84 @@
 {
-  "date": "2026-05-28",
+  "date": "2026-05-29",
   "us_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 875321,
-      "growth": "+0.32%"
+      "count": 1550000,
+      "growth": "+0.2%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 712987,
-      "growth": "+0.25%"
+      "count": 1120000,
+      "growth": "+0.3%"
     },
     {
       "category": "HR & Business Operations",
-      "count": 398123,
-      "growth": "+0.18%"
+      "count": 680000,
+      "growth": "+0.1%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 965432,
-      "growth": "+0.21%"
+      "count": 1350000,
+      "growth": "+0.2%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 510987,
-      "growth": "+0.08%"
+      "count": 720000,
+      "growth": "+0.05%"
     }
   ],
   "pgh_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 12850,
-      "growth": "+0.40%"
+      "count": 18500,
+      "growth": "+0.3%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 8320,
-      "growth": "+0.30%"
+      "count": 12500,
+      "growth": "+0.4%"
     },
     {
       "category": "HR & Business Operations",
-      "count": 4710,
-      "growth": "+0.20%"
+      "count": 7500,
+      "growth": "+0.1%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 15600,
-      "growth": "+0.25%"
+      "count": 16000,
+      "growth": "+0.2%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 7250,
-      "growth": "+0.10%"
+      "count": 8200,
+      "growth": "+0.05%"
     }
   ],
   "top_roles": [
     {
-      "role": "Registered Nurse (RN)",
+      "role": "Registered Nurse",
       "demand": "Very High",
-      "top_skill": "BLS/ACLS Certification"
+      "top_skill": "Clinical Assessment & Patient Care Planning"
     },
     {
-      "role": "Software Engineer (Full-stack)",
+      "role": "Software Engineer",
       "demand": "High",
-      "top_skill": "Cloud Platforms (AWS/Azure/GCP)"
-    },
-    {
-      "role": "Medical Assistant",
-      "demand": "High",
-      "top_skill": "Electronic Health Records (EHR) Proficiency"
+      "top_skill": "Cloud Development (AWS/Azure/GCP) & Microservices"
     },
     {
       "role": "Customer Service Representative",
       "demand": "High",
-      "top_skill": "Conflict Resolution & De-escalation"
+      "top_skill": "De-escalation & Multi-channel Communication"
     },
     {
-      "role": "HR Business Partner",
-      "demand": "Medium",
-      "top_skill": "Strategic Workforce Planning"
+      "role": "Medical Assistant",
+      "demand": "High",
+      "top_skill": "Electronic Health Records (EHR) Management"
+    },
+    {
+      "role": "Data Analyst",
+      "demand": "High",
+      "top_skill": "SQL & Data Visualization (Tableau/Power BI)"
     }
   ]
 }
