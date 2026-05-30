@@ -1,84 +1,84 @@
 {
-  "date": "2026-05-29",
+  "date": "2026-05-30",
   "us_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 1550000,
-      "growth": "+0.2%"
+      "count": 1125000,
+      "growth": "+0.24%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 1120000,
-      "growth": "+0.3%"
+      "count": 870000,
+      "growth": "+0.19%"
     },
     {
       "category": "HR & Business Operations",
-      "count": 680000,
-      "growth": "+0.1%"
+      "count": 430000,
+      "growth": "+0.09%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 1350000,
-      "growth": "+0.2%"
+      "count": 960000,
+      "growth": "+0.16%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 720000,
-      "growth": "+0.05%"
+      "count": 710000,
+      "growth": "+0.06%"
     }
   ],
   "pgh_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 18500,
-      "growth": "+0.3%"
+      "count": 23000,
+      "growth": "+0.27%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 12500,
-      "growth": "+0.4%"
+      "count": 19000,
+      "growth": "+0.23%"
     },
     {
       "category": "HR & Business Operations",
-      "count": 7500,
-      "growth": "+0.1%"
+      "count": 8800,
+      "growth": "+0.11%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 16000,
-      "growth": "+0.2%"
+      "count": 19500,
+      "growth": "+0.14%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 8200,
-      "growth": "+0.05%"
+      "count": 14000,
+      "growth": "+0.08%"
     }
   ],
   "top_roles": [
     {
       "role": "Registered Nurse",
       "demand": "Very High",
-      "top_skill": "Clinical Assessment & Patient Care Planning"
+      "top_skill": "Clinical Skills & Patient Care"
     },
     {
       "role": "Software Engineer",
       "demand": "High",
-      "top_skill": "Cloud Development (AWS/Azure/GCP) & Microservices"
+      "top_skill": "Cloud Computing Platforms (AWS/Azure/GCP)"
     },
     {
       "role": "Customer Service Representative",
       "demand": "High",
-      "top_skill": "De-escalation & Multi-channel Communication"
+      "top_skill": "Active Listening & Problem-Solving"
     },
     {
       "role": "Medical Assistant",
       "demand": "High",
-      "top_skill": "Electronic Health Records (EHR) Management"
+      "top_skill": "Electronic Health Records (EHR) & Phlebotomy"
     },
     {
       "role": "Data Analyst",
-      "demand": "High",
-      "top_skill": "SQL & Data Visualization (Tableau/Power BI)"
+      "demand": "Medium",
+      "top_skill": "SQL & Data Visualization Tools"
     }
   ]
 }
