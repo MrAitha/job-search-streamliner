@@ -1,84 +1,84 @@
 {
-  "date": "2026-06-10",
+  "date": "2026-06-11",
   "us_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 1250000,
-      "growth": "+0.9%"
+      "count": 1850000,
+      "growth": "+0.28%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 880000,
-      "growth": "+0.5%"
+      "count": 1120000,
+      "growth": "+0.35%"
     },
     {
       "category": "HR & Business Operations",
-      "count": 570000,
-      "growth": "+0.3%"
+      "count": 680000,
+      "growth": "+0.15%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 980000,
-      "growth": "+0.7%"
+      "count": 1350000,
+      "growth": "+0.20%"
     },
     {
       "category": "Administrative & Clerical",
       "count": 720000,
-      "growth": "+0.2%"
+      "growth": "-0.05%"
     }
   ],
   "pgh_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 8700,
-      "growth": "+1.1%"
+      "count": 21500,
+      "growth": "+0.35%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 5200,
-      "growth": "+0.6%"
+      "count": 12800,
+      "growth": "+0.45%"
     },
     {
       "category": "HR & Business Operations",
-      "count": 3100,
-      "growth": "+0.3%"
+      "count": 5100,
+      "growth": "+0.20%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 5600,
-      "growth": "+0.5%"
+      "count": 8300,
+      "growth": "+0.25%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 4100,
-      "growth": "+0.1%"
+      "count": 6100,
+      "growth": "-0.10%"
     }
   ],
   "top_roles": [
     {
-      "role": "Registered Nurse (RN)",
+      "role": "Registered Nurse",
       "demand": "Very High",
-      "top_skill": "Clinical Skills & BLS/ACLS Certification"
+      "top_skill": "BLS Certification"
     },
     {
       "role": "Software Engineer",
       "demand": "High",
-      "top_skill": "Cloud Computing (AWS/Azure) & Python/Java"
+      "top_skill": "Python/Java/Cloud Expertise"
     },
     {
       "role": "Medical Assistant",
       "demand": "High",
-      "top_skill": "Electronic Health Records (EHR) & Patient Intake"
+      "top_skill": "Clinical Skills & Patient Care"
     },
     {
       "role": "Customer Service Representative",
-      "demand": "High",
-      "top_skill": "Conflict Resolution & CRM Software Proficiency"
+      "demand": "Medium",
+      "top_skill": "Communication & Problem-Solving"
     },
     {
       "role": "HR Generalist",
       "demand": "Medium",
-      "top_skill": "HRIS Management & Employee Relations"
+      "top_skill": "HRIS Experience"
     }
   ]
 }
