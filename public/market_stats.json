@@ -1,84 +1,84 @@
 {
-  "date": "2026-06-12",
+  "date": "2026-06-13",
   "us_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 1850000,
-      "growth": "+0.28%"
+      "count": 950000,
+      "growth": "+0.18%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 1120000,
-      "growth": "+0.35%"
+      "count": 780000,
+      "growth": "+0.25%"
     },
     {
       "category": "HR & Business Operations",
-      "count": 680000,
-      "growth": "+0.15%"
+      "count": 320000,
+      "growth": "+0.05%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 1350000,
-      "growth": "+0.20%"
+      "count": 850000,
+      "growth": "+0.15%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 720000,
-      "growth": "-0.05%"
+      "count": 480000,
+      "growth": "-0.02%"
     }
   ],
   "pgh_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 21500,
-      "growth": "+0.35%"
+      "count": 18000,
+      "growth": "+0.12%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 12800,
-      "growth": "+0.45%"
+      "count": 12000,
+      "growth": "+0.30%"
     },
     {
       "category": "HR & Business Operations",
-      "count": 5100,
-      "growth": "+0.20%"
+      "count": 4500,
+      "growth": "+0.08%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 8300,
-      "growth": "+0.25%"
+      "count": 15000,
+      "growth": "+0.09%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 6100,
-      "growth": "-0.10%"
+      "count": 8000,
+      "growth": "-0.01%"
     }
   ],
   "top_roles": [
     {
       "role": "Registered Nurse",
       "demand": "Very High",
-      "top_skill": "BLS Certification"
+      "top_skill": "NCLEX-RN Certification"
     },
     {
       "role": "Software Engineer",
       "demand": "High",
-      "top_skill": "Python/Java/Cloud Expertise"
+      "top_skill": "Proficiency in Python, Java, or C#"
     },
     {
-      "role": "Medical Assistant",
+      "role": "Data Analyst",
       "demand": "High",
-      "top_skill": "Clinical Skills & Patient Care"
+      "top_skill": "SQL & Data Visualization (e.g., Tableau, Power BI)"
+    },
+    {
+      "role": "Project Manager",
+      "demand": "High",
+      "top_skill": "PMP or Agile Certification"
     },
     {
       "role": "Customer Service Representative",
       "demand": "Medium",
-      "top_skill": "Communication & Problem-Solving"
-    },
-    {
-      "role": "HR Generalist",
-      "demand": "Medium",
-      "top_skill": "HRIS Experience"
+      "top_skill": "Active Listening & Problem-Solving Skills"
     }
   ]
 }
