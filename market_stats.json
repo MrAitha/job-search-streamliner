@@ -1,84 +1,84 @@
 {
-  "date": "2026-06-13",
+  "date": "2026-06-14",
   "us_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 950000,
-      "growth": "+0.18%"
+      "count": 485000,
+      "growth": "+3.1%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 780000,
-      "growth": "+0.25%"
+      "count": 390000,
+      "growth": "+2.8%"
     },
     {
       "category": "HR & Business Operations",
-      "count": 320000,
-      "growth": "+0.05%"
+      "count": 135000,
+      "growth": "+1.5%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 850000,
-      "growth": "+0.15%"
+      "count": 310000,
+      "growth": "+1.9%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 480000,
-      "growth": "-0.02%"
+      "count": 160000,
+      "growth": "+0.8%"
     }
   ],
   "pgh_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 18000,
-      "growth": "+0.12%"
+      "count": 9200,
+      "growth": "+3.5%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 12000,
-      "growth": "+0.30%"
+      "count": 5800,
+      "growth": "+3.0%"
     },
     {
       "category": "HR & Business Operations",
-      "count": 4500,
-      "growth": "+0.08%"
+      "count": 2100,
+      "growth": "+1.7%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 15000,
-      "growth": "+0.09%"
+      "count": 4300,
+      "growth": "+2.1%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 8000,
-      "growth": "-0.01%"
+      "count": 2700,
+      "growth": "+1.0%"
     }
   ],
   "top_roles": [
     {
       "role": "Registered Nurse",
       "demand": "Very High",
-      "top_skill": "NCLEX-RN Certification"
+      "top_skill": "Clinical Care, State Licensure (RN)"
     },
     {
-      "role": "Software Engineer",
-      "demand": "High",
-      "top_skill": "Proficiency in Python, Java, or C#"
+      "role": "Software Engineer (AI/ML Focus)",
+      "demand": "Very High",
+      "top_skill": "Python, Machine Learning Frameworks (TensorFlow/PyTorch)"
     },
     {
       "role": "Data Analyst",
       "demand": "High",
-      "top_skill": "SQL & Data Visualization (e.g., Tableau, Power BI)"
+      "top_skill": "SQL, Excel, Data Visualization (Tableau/Power BI)"
     },
     {
-      "role": "Project Manager",
+      "role": "Account Executive",
       "demand": "High",
-      "top_skill": "PMP or Agile Certification"
+      "top_skill": "CRM Software (Salesforce), Negotiation, Relationship Management"
     },
     {
-      "role": "Customer Service Representative",
+      "role": "HR Generalist / Talent Acquisition Specialist",
       "demand": "Medium",
-      "top_skill": "Active Listening & Problem-Solving Skills"
+      "top_skill": "HRIS (Workday/SAP), Employee Relations, Recruitment Strategies"
     }
   ]
 }
