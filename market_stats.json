@@ -1,84 +1,84 @@
 {
-  "date": "2026-06-15",
+  "date": "2026-06-16",
   "us_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 485000,
-      "growth": "+3.1%"
+      "count": 685200,
+      "growth": "+0.28%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 390000,
-      "growth": "+2.8%"
+      "count": 591500,
+      "growth": "+0.35%"
     },
     {
       "category": "HR & Business Operations",
-      "count": 135000,
-      "growth": "+1.5%"
+      "count": 398700,
+      "growth": "+0.18%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 310000,
-      "growth": "+1.9%"
+      "count": 752100,
+      "growth": "+0.22%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 160000,
-      "growth": "+0.8%"
+      "count": 465300,
+      "growth": "+0.10%"
     }
   ],
   "pgh_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 9200,
-      "growth": "+3.5%"
+      "count": 19500,
+      "growth": "+0.32%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 5800,
-      "growth": "+3.0%"
+      "count": 13200,
+      "growth": "+0.41%"
     },
     {
       "category": "HR & Business Operations",
-      "count": 2100,
-      "growth": "+1.7%"
+      "count": 7600,
+      "growth": "+0.20%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 4300,
-      "growth": "+2.1%"
+      "count": 16100,
+      "growth": "+0.25%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 2700,
-      "growth": "+1.0%"
+      "count": 9400,
+      "growth": "+0.13%"
     }
   ],
   "top_roles": [
     {
-      "role": "Registered Nurse",
+      "role": "Registered Nurse (RN)",
       "demand": "Very High",
-      "top_skill": "Clinical Care, State Licensure (RN)"
+      "top_skill": "Clinical Competency & Patient Care"
     },
     {
-      "role": "Software Engineer (AI/ML Focus)",
+      "role": "Software Engineer (AI/ML Specialist)",
       "demand": "Very High",
       "top_skill": "Python, Machine Learning Frameworks (TensorFlow/PyTorch)"
     },
     {
-      "role": "Data Analyst",
+      "role": "Customer Service Representative",
       "demand": "High",
-      "top_skill": "SQL, Excel, Data Visualization (Tableau/Power BI)"
+      "top_skill": "Communication & Problem-Solving"
     },
     {
-      "role": "Account Executive",
+      "role": "Medical Assistant",
       "demand": "High",
-      "top_skill": "CRM Software (Salesforce), Negotiation, Relationship Management"
+      "top_skill": "Electronic Health Records (EHR) & Clinical Procedures"
     },
     {
-      "role": "HR Generalist / Talent Acquisition Specialist",
-      "demand": "Medium",
-      "top_skill": "HRIS (Workday/SAP), Employee Relations, Recruitment Strategies"
+      "role": "Talent Acquisition Specialist",
+      "demand": "High",
+      "top_skill": "Recruitment Software & Candidate Experience Management"
     }
   ]
 }
