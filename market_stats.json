@@ -1,84 +1,84 @@
 {
-  "date": "2026-06-16",
+  "date": "2026-06-17",
   "us_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 685200,
-      "growth": "+0.28%"
+      "count": 1850000,
+      "growth": "+0.15%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 591500,
-      "growth": "+0.35%"
+      "count": 1520000,
+      "growth": "+0.08%"
     },
     {
       "category": "HR & Business Operations",
-      "count": 398700,
-      "growth": "+0.18%"
+      "count": 880000,
+      "growth": "+0.05%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 752100,
-      "growth": "+0.22%"
+      "count": 1300000,
+      "growth": "+0.09%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 465300,
-      "growth": "+0.10%"
+      "count": 750000,
+      "growth": "+0.02%"
     }
   ],
   "pgh_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 19500,
-      "growth": "+0.32%"
-    },
-    {
-      "category": "IT & Software Engineering",
-      "count": 13200,
-      "growth": "+0.41%"
-    },
-    {
-      "category": "HR & Business Operations",
-      "count": 7600,
-      "growth": "+0.20%"
-    },
-    {
-      "category": "Sales & Customer Service",
-      "count": 16100,
+      "count": 22000,
       "growth": "+0.25%"
     },
     {
+      "category": "IT & Software Engineering",
+      "count": 15500,
+      "growth": "+0.18%"
+    },
+    {
+      "category": "HR & Business Operations",
+      "count": 9200,
+      "growth": "+0.10%"
+    },
+    {
+      "category": "Sales & Customer Service",
+      "count": 13500,
+      "growth": "+0.12%"
+    },
+    {
       "category": "Administrative & Clerical",
-      "count": 9400,
-      "growth": "+0.13%"
+      "count": 7800,
+      "growth": "+0.03%"
     }
   ],
   "top_roles": [
     {
-      "role": "Registered Nurse (RN)",
+      "role": "Registered Nurse",
       "demand": "Very High",
-      "top_skill": "Clinical Competency & Patient Care"
+      "top_skill": "Active RN License, Critical Care Experience"
     },
     {
-      "role": "Software Engineer (AI/ML Specialist)",
-      "demand": "Very High",
-      "top_skill": "Python, Machine Learning Frameworks (TensorFlow/PyTorch)"
+      "role": "Software Engineer",
+      "demand": "High",
+      "top_skill": "Proficiency in Python/Java/JavaScript, Cloud Platforms (AWS/Azure)"
     },
     {
       "role": "Customer Service Representative",
       "demand": "High",
-      "top_skill": "Communication & Problem-Solving"
+      "top_skill": "Strong Communication, Conflict Resolution, CRM Software"
     },
     {
       "role": "Medical Assistant",
       "demand": "High",
-      "top_skill": "Electronic Health Records (EHR) & Clinical Procedures"
+      "top_skill": "EMR/EHR Systems, Clinical Procedures, Patient Interaction"
     },
     {
-      "role": "Talent Acquisition Specialist",
+      "role": "Data Analyst",
       "demand": "High",
-      "top_skill": "Recruitment Software & Candidate Experience Management"
+      "top_skill": "SQL, Excel, Python/R, Data Visualization Tools (e.g., Tableau)"
     }
   ]
 }
