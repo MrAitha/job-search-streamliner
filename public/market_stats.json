@@ -1,84 +1,84 @@
 {
-  "date": "2026-06-20",
+  "date": "2026-06-21",
   "us_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 920000,
-      "growth": "+2.8%"
+      "count": 2150000,
+      "growth": "+3.2%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 680000,
-      "growth": "+3.5%"
+      "count": 1280000,
+      "growth": "+3.8%"
     },
     {
       "category": "HR & Business Operations",
-      "count": 480000,
-      "growth": "+1.5%"
+      "count": 560000,
+      "growth": "+1.9%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 750000,
-      "growth": "+2.2%"
+      "count": 1620000,
+      "growth": "+1.1%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 510000,
-      "growth": "+0.8%"
+      "count": 890000,
+      "growth": "-0.3%"
     }
   ],
   "pgh_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 21000,
-      "growth": "+3.1%"
+      "count": 22500,
+      "growth": "+2.9%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 12000,
-      "growth": "+3.0%"
+      "count": 11800,
+      "growth": "+3.5%"
     },
     {
       "category": "HR & Business Operations",
-      "count": 7000,
-      "growth": "+1.2%"
+      "count": 4800,
+      "growth": "+1.7%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 14000,
-      "growth": "+1.9%"
+      "count": 14500,
+      "growth": "+0.9%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 9000,
-      "growth": "+0.6%"
+      "count": 7200,
+      "growth": "-0.6%"
     }
   ],
   "top_roles": [
     {
       "role": "Registered Nurse (RN)",
       "demand": "Very High",
-      "top_skill": "Clinical Skills / NCLEX Certification"
+      "top_skill": "BLS/ACLS Certification"
     },
     {
-      "role": "Software Engineer (AI/ML Focus)",
+      "role": "AI/Machine Learning Engineer",
       "demand": "Very High",
-      "top_skill": "Python / Machine Learning Frameworks"
+      "top_skill": "Python & TensorFlow/PyTorch"
     },
     {
-      "role": "Data Analyst",
+      "role": "Cybersecurity Analyst",
       "demand": "High",
-      "top_skill": "SQL / Tableau / Python for Data Manipulation"
+      "top_skill": "CompTIA Security+ / CISSP"
     },
     {
-      "role": "Sales Development Representative (SDR)",
+      "role": "Customer Success Manager",
       "demand": "High",
-      "top_skill": "Prospecting / CRM Software (e.g., Salesforce)"
+      "top_skill": "CRM Software Proficiency (e.g., Salesforce)"
     },
     {
-      "role": "Medical Assistant",
-      "demand": "High",
-      "top_skill": "Clinical Procedures / Electronic Health Records (EHR)"
+      "role": "HR Business Partner",
+      "demand": "Medium",
+      "top_skill": "Strategic Workforce Planning"
     }
   ]
 }
