@@ -223,5 +223,32 @@
     "score": 98,
     "reason": "This HRIS Analyst role is an excellent match, directly aligning with the candidate's target roles, HR operations background, mid-level experience, and Workday core skill.",
     "date": "2026-06-26"
+  },
+  {
+    "id": "in-3063220ba3e7cb9b",
+    "title": "Data Analyst \u2013 Class Action Defense",
+    "company": "Davis Wright Tremaine LLP",
+    "url": "https://www.indeed.com/viewjob?jk=3063220ba3e7cb9b",
+    "score": 60,
+    "reason": "The role strongly aligns with the candidate's HR operations background and core skills in SQL and Power BI, but the required 4+ years of experience exceeds the candidate's entry/mid-level profile.",
+    "date": "2026-06-30"
+  },
+  {
+    "id": "in-cb69ec7a7a222004",
+    "title": "Data Analyst \u2013 Class Action Defense",
+    "company": "Davis Wright Tremaine LLP",
+    "url": "https://www.indeed.com/viewjob?jk=cb69ec7a7a222004",
+    "score": 88,
+    "reason": "The role's strong HR-related data analysis, SQL, and Power BI alignment makes it a good match, though the 4+ years experience is at the higher end of the candidate's profile.",
+    "date": "2026-06-30"
+  },
+  {
+    "id": "in-5e25b916625cc4e1",
+    "title": "Data Analyst \u2013 Class Action Defense",
+    "company": "Davis Wright Tremaine LLP",
+    "url": "https://www.indeed.com/viewjob?jk=5e25b916625cc4e1",
+    "score": 65,
+    "reason": "This role is an excellent match for HR-related data, SQL, and Power BI skills, but the 4+ years of experience required significantly penalizes an entry/mid-level candidate.",
+    "date": "2026-06-30"
   }
 ]
