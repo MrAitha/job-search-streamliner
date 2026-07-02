@@ -1,84 +1,84 @@
 {
-  "date": "2026-07-01",
+  "date": "2026-07-02",
   "us_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 1550000,
-      "growth": "+2.8%"
+      "count": 1650000,
+      "growth": "+0.28%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 1280000,
-      "growth": "+3.9%"
+      "count": 1050000,
+      "growth": "+0.35%"
     },
     {
       "category": "HR & Business Operations",
       "count": 780000,
-      "growth": "+1.7%"
+      "growth": "+0.18%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 1850000,
-      "growth": "+2.2%"
+      "count": 1250000,
+      "growth": "+0.20%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 620000,
-      "growth": "+0.9%"
+      "count": 980000,
+      "growth": "+0.05%"
     }
   ],
   "pgh_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 29500,
-      "growth": "+3.1%"
+      "count": 30000,
+      "growth": "+0.30%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 16200,
-      "growth": "+4.3%"
+      "count": 15000,
+      "growth": "+0.40%"
     },
     {
       "category": "HR & Business Operations",
-      "count": 9100,
-      "growth": "+1.9%"
+      "count": 10000,
+      "growth": "+0.20%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 12800,
-      "growth": "+2.4%"
+      "count": 17000,
+      "growth": "+0.22%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 7400,
-      "growth": "+1.1%"
+      "count": 12000,
+      "growth": "+0.08%"
     }
   ],
   "top_roles": [
     {
-      "role": "Registered Nurse",
+      "role": "Registered Nurse (RN)",
       "demand": "Very High",
-      "top_skill": "Clinical Competence & Patient Care"
+      "top_skill": "Active RN License & Clinical Experience"
     },
     {
-      "role": "Software Engineer (AI/ML Focus)",
+      "role": "AI/ML Software Engineer",
       "demand": "Very High",
-      "top_skill": "Cloud Platforms (AWS/Azure/GCP) & LLM Development"
+      "top_skill": "Python, Machine Learning Frameworks (e.g., PyTorch, TensorFlow)"
     },
     {
       "role": "Data Analyst/Scientist",
       "demand": "High",
-      "top_skill": "SQL, Python/R, & Advanced Data Visualization"
+      "top_skill": "SQL, Python/R, Data Visualization Tools"
     },
     {
-      "role": "Medical Assistant",
+      "role": "Customer Success Manager",
       "demand": "High",
-      "top_skill": "Electronic Health Records (EHR) Management & Patient Triage"
+      "top_skill": "CRM Proficiency, Strategic Communication, Problem-Solving"
     },
     {
-      "role": "Digital Marketing Specialist",
+      "role": "Medical Assistant / Medical Coder",
       "demand": "High",
-      "top_skill": "SEO/SEM, Content Strategy, & Analytics"
+      "top_skill": "Medical Terminology, EHR Systems, Certification (e.g., CMA, CPC)"
     }
   ]
 }
