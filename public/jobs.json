@@ -250,5 +250,23 @@
     "score": 65,
     "reason": "This role is an excellent match for HR-related data, SQL, and Power BI skills, but the 4+ years of experience required significantly penalizes an entry/mid-level candidate.",
     "date": "2026-06-30"
+  },
+  {
+    "id": "in-2278e5694be1021c",
+    "title": "Oracle Human Capital Management Analyst",
+    "company": "JBI Software",
+    "url": "https://www.indeed.com/viewjob?jk=2278e5694be1021c",
+    "score": 90,
+    "reason": "This is an excellent match for an HRIS Analyst role, leveraging strong SQL skills and HR operations background, despite the specific HRIS being Oracle HCM instead of Workday.",
+    "date": "2026-07-03"
+  },
+  {
+    "id": "in-cd04280fbf9de2b5",
+    "title": "Data Analyst \u2013 Class Action Defense",
+    "company": "Davis Wright Tremaine LLP",
+    "url": "https://www.indeed.com/viewjob?jk=cd04280fbf9de2b5",
+    "score": 70,
+    "reason": "The job aligns strongly with HR operations, SQL, and Power BI skills, but the 4+ years of experience requirement exceeds the candidate's entry/mid-level.",
+    "date": "2026-07-03"
   }
 ]
