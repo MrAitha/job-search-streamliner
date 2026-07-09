@@ -1,84 +1,84 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-09",
   "us_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 1650000,
-      "growth": "+0.28%"
+      "count": 925000,
+      "growth": "+2.7%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 1050000,
-      "growth": "+0.35%"
+      "count": 780000,
+      "growth": "+1.9%"
     },
     {
       "category": "HR & Business Operations",
-      "count": 780000,
-      "growth": "+0.18%"
+      "count": 380000,
+      "growth": "+1.3%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 1250000,
-      "growth": "+0.20%"
+      "count": 1150000,
+      "growth": "+1.6%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 980000,
-      "growth": "+0.05%"
+      "count": 470000,
+      "growth": "+0.7%"
     }
   ],
   "pgh_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 30000,
-      "growth": "+0.30%"
+      "count": 31000,
+      "growth": "+3.1%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 15000,
-      "growth": "+0.40%"
+      "count": 21000,
+      "growth": "+2.3%"
     },
     {
       "category": "HR & Business Operations",
-      "count": 10000,
-      "growth": "+0.20%"
+      "count": 9500,
+      "growth": "+1.1%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 17000,
-      "growth": "+0.22%"
+      "count": 26000,
+      "growth": "+1.4%"
     },
     {
       "category": "Administrative & Clerical",
       "count": 12000,
-      "growth": "+0.08%"
+      "growth": "+0.6%"
     }
   ],
   "top_roles": [
     {
-      "role": "Registered Nurse (RN)",
+      "role": "Registered Nurse",
       "demand": "Very High",
-      "top_skill": "Active RN License & Clinical Experience"
+      "top_skill": "BLS/ACLS Certification"
     },
     {
-      "role": "AI/ML Software Engineer",
+      "role": "Software Engineer",
+      "demand": "High",
+      "top_skill": "Cloud Computing (AWS/Azure/GCP)"
+    },
+    {
+      "role": "Data Analyst",
+      "demand": "High",
+      "top_skill": "SQL & Data Visualization Tools"
+    },
+    {
+      "role": "Customer Service Representative",
+      "demand": "High",
+      "top_skill": "CRM Software & Communication Skills"
+    },
+    {
+      "role": "Medical Assistant",
       "demand": "Very High",
-      "top_skill": "Python, Machine Learning Frameworks (e.g., PyTorch, TensorFlow)"
-    },
-    {
-      "role": "Data Analyst/Scientist",
-      "demand": "High",
-      "top_skill": "SQL, Python/R, Data Visualization Tools"
-    },
-    {
-      "role": "Customer Success Manager",
-      "demand": "High",
-      "top_skill": "CRM Proficiency, Strategic Communication, Problem-Solving"
-    },
-    {
-      "role": "Medical Assistant / Medical Coder",
-      "demand": "High",
-      "top_skill": "Medical Terminology, EHR Systems, Certification (e.g., CMA, CPC)"
+      "top_skill": "Electronic Health Records (EHR)"
     }
   ]
 }
