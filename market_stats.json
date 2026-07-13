@@ -1,84 +1,84 @@
 {
-  "date": "2026-07-12",
+  "date": "2026-07-13",
   "us_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 485720,
-      "growth": "+0.42%"
-    },
-    {
-      "category": "IT & Software Engineering",
-      "count": 398150,
-      "growth": "+0.65%"
-    },
-    {
-      "category": "HR & Business Operations",
-      "count": 182300,
-      "growth": "+0.28%"
-    },
-    {
-      "category": "Sales & Customer Service",
-      "count": 331980,
+      "count": 1850000,
       "growth": "+0.35%"
     },
     {
+      "category": "IT & Software Engineering",
+      "count": 1050000,
+      "growth": "+0.28%"
+    },
+    {
+      "category": "HR & Business Operations",
+      "count": 520000,
+      "growth": "+0.12%"
+    },
+    {
+      "category": "Sales & Customer Service",
+      "count": 2100000,
+      "growth": "+0.18%"
+    },
+    {
       "category": "Administrative & Clerical",
-      "count": 265410,
-      "growth": "-0.05%"
+      "count": 1250000,
+      "growth": "+0.07%"
     }
   ],
   "pgh_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 8950,
-      "growth": "+0.55%"
+      "count": 16500,
+      "growth": "+0.45%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 6120,
-      "growth": "+0.78%"
+      "count": 8800,
+      "growth": "+0.32%"
     },
     {
       "category": "HR & Business Operations",
-      "count": 2680,
-      "growth": "+0.31%"
+      "count": 3100,
+      "growth": "+0.15%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 4710,
-      "growth": "+0.40%"
+      "count": 12500,
+      "growth": "+0.19%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 3150,
-      "growth": "+0.02%"
+      "count": 8200,
+      "growth": "+0.08%"
     }
   ],
   "top_roles": [
     {
-      "role": "Registered Nurse (RN)",
+      "role": "Registered Nurse",
       "demand": "Very High",
-      "top_skill": "Clinical Care & Patient Management"
+      "top_skill": "Clinical Skills & Patient Care"
     },
     {
       "role": "Software Engineer",
       "demand": "High",
-      "top_skill": "Cloud Platforms (AWS/Azure/GCP) & Backend Development"
-    },
-    {
-      "role": "Medical Assistant",
-      "demand": "Very High",
-      "top_skill": "Electronic Health Records (EHR) & Patient Intake"
+      "top_skill": "Proficiency in Cloud Technologies (AWS/Azure/GCP)"
     },
     {
       "role": "Customer Service Representative",
       "demand": "High",
-      "top_skill": "Conflict Resolution & CRM Software"
+      "top_skill": "Problem-Solving & Communication"
     },
     {
-      "role": "Data Analyst",
+      "role": "Medical Assistant",
       "demand": "High",
-      "top_skill": "SQL & Data Visualization Tools (Tableau/Power BI)"
+      "top_skill": "Electronic Health Records (EHR) experience"
+    },
+    {
+      "role": "HR Generalist",
+      "demand": "Medium",
+      "top_skill": "Employee Relations Management"
     }
   ]
 }
