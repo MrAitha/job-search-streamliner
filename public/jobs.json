@@ -304,5 +304,14 @@
     "score": 90,
     "reason": "This role is a strong match, directly aligning with the candidate's HR operations background, HRIS (Workday) skills, and data fluency within a highly prioritized HR-related domain.",
     "date": "2026-07-13"
+  },
+  {
+    "id": "in-293d0babc78a8210",
+    "title": "Sr. Benefits Analyst",
+    "company": "Stride, Inc.",
+    "url": "https://www.indeed.com/viewjob?jk=293d0babc78a8210",
+    "score": 60,
+    "reason": "This is an HR-focused role with some Workday mention, aligning with HR operations background, but it lacks the candidate's core SQL and Power BI skills and is a 'Sr.' position requiring specific benefits experience which may be a stretch for an entry/mid-level candidate.",
+    "date": "2026-07-15"
   }
 ]
