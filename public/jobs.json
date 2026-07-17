@@ -313,5 +313,14 @@
     "score": 60,
     "reason": "This is an HR-focused role with some Workday mention, aligning with HR operations background, but it lacks the candidate's core SQL and Power BI skills and is a 'Sr.' position requiring specific benefits experience which may be a stretch for an entry/mid-level candidate.",
     "date": "2026-07-15"
+  },
+  {
+    "id": "in-e2e34ff3e37cac95",
+    "title": "Talent Acquisition Data Analyst",
+    "company": "Point Quest",
+    "url": "https://www.indeed.com/viewjob?jk=e2e34ff3e37cac95",
+    "score": 95,
+    "reason": "This is an excellent match given the role's strong HR-focus, direct Workday requirement, and alignment with the candidate's entry/mid-level experience and data analysis background.",
+    "date": "2026-07-17"
   }
 ]
