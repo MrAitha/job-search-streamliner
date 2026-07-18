@@ -1,84 +1,84 @@
 {
-  "date": "2026-07-17",
+  "date": "2026-07-18",
   "us_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 1850000,
-      "growth": "+2.5%"
+      "count": 785000,
+      "growth": "+0.18%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 1200000,
-      "growth": "+1.8%"
+      "count": 612000,
+      "growth": "+0.15%"
     },
     {
       "category": "HR & Business Operations",
-      "count": 680000,
-      "growth": "+0.7%"
+      "count": 315000,
+      "growth": "+0.09%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 1350000,
-      "growth": "+1.2%"
+      "count": 830000,
+      "growth": "+0.12%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 980000,
-      "growth": "+0.3%"
+      "count": 560000,
+      "growth": "+0.05%"
     }
   ],
   "pgh_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 8500,
-      "growth": "+3.2%"
+      "count": 8200,
+      "growth": "+0.22%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 5200,
-      "growth": "+2.5%"
+      "count": 4600,
+      "growth": "+0.17%"
     },
     {
       "category": "HR & Business Operations",
-      "count": 2800,
-      "growth": "+0.5%"
+      "count": 2100,
+      "growth": "+0.11%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 4500,
-      "growth": "+1.0%"
+      "count": 6200,
+      "growth": "+0.10%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 3900,
-      "growth": "+0.2%"
+      "count": 4100,
+      "growth": "+0.06%"
     }
   ],
   "top_roles": [
     {
+      "role": "Software Engineer (AI/ML)",
+      "demand": "Very High",
+      "top_skill": "Python, Machine Learning Frameworks"
+    },
+    {
       "role": "Registered Nurse (RN)",
       "demand": "Very High",
-      "top_skill": "Clinical Competency & Patient Care"
+      "top_skill": "Clinical Skills, BLS/ACLS Certification"
     },
     {
-      "role": "Software Engineer",
+      "role": "Data Analyst/Scientist",
       "demand": "High",
-      "top_skill": "Proficiency in Cloud Platforms & specific programming languages (e.g., Python, Java)"
+      "top_skill": "SQL, Python/R, Data Visualization"
     },
     {
-      "role": "Medical Assistant",
+      "role": "Project Manager",
       "demand": "High",
-      "top_skill": "Electronic Health Records (EHR) & Clinical Procedures"
+      "top_skill": "Agile Methodologies, PMP Certification"
     },
     {
-      "role": "Account Manager / Sales Representative",
-      "demand": "Medium",
-      "top_skill": "Client Relationship Management & Negotiation"
-    },
-    {
-      "role": "HR Generalist",
-      "demand": "Medium",
-      "top_skill": "Employee Relations & HRIS Proficiency"
+      "role": "Customer Success Manager",
+      "demand": "Medium-High",
+      "top_skill": "Client Relationship Management, CRM Software"
     }
   ]
 }
