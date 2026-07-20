@@ -1,84 +1,84 @@
 {
-  "date": "2026-07-19",
+  "date": "2026-07-20",
   "us_stats": [
     {
       "category": "Healthcare & Medical Services",
       "count": 485000,
-      "growth": "+2.1%"
+      "growth": "+2.5%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 395000,
-      "growth": "+3.5%"
+      "count": 390000,
+      "growth": "+1.8%"
     },
     {
       "category": "HR & Business Operations",
       "count": 215000,
-      "growth": "+1.8%"
+      "growth": "+0.9%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 425000,
-      "growth": "+2.5%"
+      "count": 355000,
+      "growth": "+1.2%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 285000,
-      "growth": "+0.8%"
+      "count": 280000,
+      "growth": "+0.5%"
     }
   ],
   "pgh_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 8700,
-      "growth": "+1.9%"
+      "count": 18500,
+      "growth": "+3.2%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 7100,
-      "growth": "+3.8%"
+      "count": 12500,
+      "growth": "+2.5%"
     },
     {
       "category": "HR & Business Operations",
-      "count": 3600,
-      "growth": "+1.5%"
+      "count": 7200,
+      "growth": "+1.0%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 7200,
-      "growth": "+2.2%"
+      "count": 10500,
+      "growth": "+0.8%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 4900,
-      "growth": "+0.6%"
+      "count": 9100,
+      "growth": "+0.3%"
     }
   ],
   "top_roles": [
     {
-      "role": "Registered Nurse",
+      "role": "Registered Nurse (RN)",
       "demand": "Very High",
       "top_skill": "Clinical Skills & Patient Care"
     },
     {
       "role": "Software Engineer",
-      "demand": "Very High",
-      "top_skill": "Python/Java & Cloud Platforms"
+      "demand": "High",
+      "top_skill": "Full-Stack Development (Python/Java/JavaScript)"
     },
     {
-      "role": "Sales Representative",
+      "role": "Customer Service Representative",
       "demand": "High",
-      "top_skill": "CRM Proficiency & Negotiation"
+      "top_skill": "Communication & Problem-Solving"
     },
     {
       "role": "Medical Assistant",
       "demand": "High",
-      "top_skill": "Electronic Health Records (EHR) & Phlebotomy"
+      "top_skill": "Patient Intake & EHR Systems"
     },
     {
       "role": "HR Generalist",
       "demand": "Medium",
-      "top_skill": "HRIS Management & Employee Relations"
+      "top_skill": "Employee Relations & HRIS Management"
     }
   ]
 }
