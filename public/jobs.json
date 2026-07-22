@@ -331,5 +331,41 @@
     "score": 95,
     "reason": "This HRIS Reporting & Analytics role is an excellent match, aligning perfectly with the candidate's target HRIS role, Workday core skill, HR operations background, and mid-level experience.",
     "date": "2026-07-20"
+  },
+  {
+    "id": "in-7e0921bdae675901",
+    "title": "Compensation Analyst",
+    "company": "Goldbelt",
+    "url": "https://www.indeed.com/viewjob?jk=7e0921bdae675901",
+    "score": 65,
+    "reason": "This is a strong HR operations role aligning with the candidate's background and target roles, but it lacks specific requirements for their core technical skills like SQL, Power BI, or Workday.",
+    "date": "2026-07-22"
+  },
+  {
+    "id": "in-6bd560e198b07355",
+    "title": "Benefits Analyst I",
+    "company": "Ensign Services",
+    "url": "https://www.indeed.com/viewjob?jk=6bd560e198b07355",
+    "score": 88,
+    "reason": "This HR-related Benefits Analyst role strongly aligns with the candidate's HR operations background, Workday expertise, and entry/mid-level experience, despite not explicitly mentioning SQL or Power BI.",
+    "date": "2026-07-22"
+  },
+  {
+    "id": "in-c4a44557a4ac7e38",
+    "title": "TEST HR Analyst",
+    "company": "ThyssenKrupp Materials NA, Inc.",
+    "url": "https://www.indeed.com/viewjob?jk=c4a44557a4ac7e38",
+    "score": 80,
+    "reason": "This HR Analyst role is an excellent thematic fit for an entry/mid-level candidate with HR operations and IT background, aligning perfectly with the target role and experience, despite the job not explicitly mentioning Workday, SQL, or Power BI.",
+    "date": "2026-07-22"
+  },
+  {
+    "id": "in-9eaf6649a1cf8626",
+    "title": "Senior Workday Analyst",
+    "company": "Arctic Wolf Networks",
+    "url": "https://www.indeed.com/viewjob?jk=9eaf6649a1cf8626",
+    "score": 78,
+    "reason": "The role is an excellent match for the candidate's HR operations background and Workday skills, though it is senior-level and does not mention SQL or Power BI.",
+    "date": "2026-07-22"
   }
 ]
