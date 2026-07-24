@@ -376,5 +376,23 @@
     "score": 95,
     "reason": "The job title \"Systems & Software Analyst - HRIS\" is a direct and high-priority match for the candidate's target role and background, implying strong alignment with HRIS and potential core skills like Workday, SQL, and Power BI.",
     "date": "2026-07-23"
+  },
+  {
+    "id": "in-d60ae71f138a9673",
+    "title": "HRIS Analyst",
+    "company": "RMS Energy",
+    "url": "https://www.indeed.com/viewjob?jk=d60ae71f138a9673",
+    "score": 82,
+    "reason": "This HRIS Analyst role is a strong match for the candidate's target role, HR background, and Workday skill, although the required 3-5+ years of experience may be a slight stretch for an entry/mid-level candidate.",
+    "date": "2026-07-24"
+  },
+  {
+    "id": "in-5d43d438aee3bc1d",
+    "title": "Compensation Analyst",
+    "company": "Goldbelt",
+    "url": "https://www.indeed.com/viewjob?jk=5d43d438aee3bc1d",
+    "score": 75,
+    "reason": "The role aligns strongly with HR operations and data analysis, fitting the candidate's background and target, but it does not explicitly require the core tools of SQL, Power BI, or Workday.",
+    "date": "2026-07-24"
   }
 ]
