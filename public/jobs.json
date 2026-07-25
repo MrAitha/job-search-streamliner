@@ -394,5 +394,32 @@
     "score": 75,
     "reason": "The role aligns strongly with HR operations and data analysis, fitting the candidate's background and target, but it does not explicitly require the core tools of SQL, Power BI, or Workday.",
     "date": "2026-07-24"
+  },
+  {
+    "id": "in-9ff0ffacb78866bb",
+    "title": "HR Systems Engineer (Mid-Level)",
+    "company": "Smarsh",
+    "url": "https://www.indeed.com/viewjob?jk=9ff0ffacb78866bb",
+    "score": 85,
+    "reason": "This HR Systems Engineer role strongly aligns with the candidate's HR operations background, IT training, Workday experience, and mid-level target, despite the absence of explicit SQL and Power BI requirements.",
+    "date": "2026-07-25"
+  },
+  {
+    "id": "in-e527561c6617bac0",
+    "title": "IT Technical Analyst (HRIS Systems)",
+    "company": "HNI Corporation",
+    "url": "https://www.indeed.com/viewjob?jk=e527561c6617bac0",
+    "score": 60,
+    "reason": "This job is an excellent thematic match for HRIS and IT/HR operations with relevant core skills like SQL and Workday, but the required 5+ years of experience is a significant mismatch for an entry/mid-level candidate, leading to a score penalty.",
+    "date": "2026-07-25"
+  },
+  {
+    "id": "in-325324e543eb2fd5",
+    "title": "Business Systems & Reporting Analyst",
+    "company": "Continuum Behavioral Health & Recovery Services",
+    "url": "https://www.indeed.com/viewjob?jk=325324e543eb2fd5",
+    "score": 92,
+    "reason": "This job is an excellent match due to its strong alignment with SQL, Power BI, and HR operations, fitting the candidate's background and experience level perfectly.",
+    "date": "2026-07-25"
   }
 ]
