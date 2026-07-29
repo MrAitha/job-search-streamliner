@@ -1,84 +1,84 @@
 {
-  "date": "2026-07-28",
+  "date": "2026-07-29",
   "us_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 1250000,
-      "growth": "+3.1%"
+      "count": 1850000,
+      "growth": "+0.32%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 980000,
-      "growth": "+2.8%"
+      "count": 1580000,
+      "growth": "+0.25%"
     },
     {
       "category": "HR & Business Operations",
       "count": 720000,
-      "growth": "+1.9%"
+      "growth": "+0.18%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 1550000,
-      "growth": "+2.2%"
+      "count": 1150000,
+      "growth": "+0.20%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 890000,
-      "growth": "+0.7%"
+      "count": 980000,
+      "growth": "+0.05%"
     }
   ],
   "pgh_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 28500,
-      "growth": "+2.9%"
+      "count": 22500,
+      "growth": "+0.45%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 18000,
-      "growth": "+2.5%"
+      "count": 16800,
+      "growth": "+0.35%"
     },
     {
       "category": "HR & Business Operations",
-      "count": 10500,
-      "growth": "+1.7%"
+      "count": 8100,
+      "growth": "+0.22%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 22000,
-      "growth": "+1.8%"
+      "count": 12300,
+      "growth": "+0.18%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 14000,
-      "growth": "+0.5%"
+      "count": 10500,
+      "growth": "+0.02%"
     }
   ],
   "top_roles": [
     {
       "role": "Registered Nurse (RN)",
       "demand": "Very High",
-      "top_skill": "Clinical Experience & BLS/ACLS Certification"
+      "top_skill": "Clinical Skills, Patient Care, BLS/ACLS Certification"
     },
     {
-      "role": "Software Engineer (AI/ML Focus)",
+      "role": "Software Engineer/Developer",
       "demand": "Very High",
-      "top_skill": "Python, Machine Learning Frameworks (TensorFlow/PyTorch)"
-    },
-    {
-      "role": "Data Analyst / Scientist",
-      "demand": "High",
-      "top_skill": "SQL, Python/R, Statistical Modeling"
-    },
-    {
-      "role": "Project Manager",
-      "demand": "High",
-      "top_skill": "PMP Certification or Agile Methodologies"
+      "top_skill": "Python/Java, Cloud Platforms (AWS/Azure), Agile Methodologies"
     },
     {
       "role": "Medical Assistant",
       "demand": "High",
-      "top_skill": "Certified Medical Assistant (CMA) & EHR Proficiency"
+      "top_skill": "EMR Systems, Phlebotomy, Patient Communication"
+    },
+    {
+      "role": "Account Manager/Sales Representative",
+      "demand": "High",
+      "top_skill": "CRM Software (e.g., Salesforce), Negotiation, Client Relationship Management"
+    },
+    {
+      "role": "Human Resources Generalist",
+      "demand": "Medium",
+      "top_skill": "HRIS Systems, Employee Relations, Compliance"
     }
   ]
 }
