@@ -466,5 +466,23 @@
     "score": 60,
     "reason": "This is an excellent functional match for an HRIS Analyst role with a strong Workday focus and HR/IT operations overlap, but the required 5 years of HRIS/IT experience is a significant stretch for an entry/mid-level candidate.",
     "date": "2026-08-01"
+  },
+  {
+    "id": "in-fbe1b20dd9e1d35f",
+    "title": "HRIS Analyst II",
+    "company": "Visual Comfort & Co",
+    "url": "https://www.indeed.com/viewjob?jk=fbe1b20dd9e1d35f",
+    "score": 60,
+    "reason": "Strong alignment with target role, experience, SQL, and Power BI, but the mandatory Ceridian Dayforce experience is a critical mismatch.",
+    "date": "2026-08-06"
+  },
+  {
+    "id": "in-6a008d5e63d6a3e3",
+    "title": "Workday Analyst",
+    "company": "Geode Health",
+    "url": "https://www.indeed.com/viewjob?jk=6a008d5e63d6a3e3",
+    "score": 90,
+    "reason": "This is an excellent match, aligning perfectly with the candidate's target HRIS Analyst role, Workday core skill, HR operations background, and mid-level experience.",
+    "date": "2026-08-06"
   }
 ]

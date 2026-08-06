@@ -1,84 +1,84 @@
 {
-  "date": "2026-08-05",
+  "date": "2026-08-06",
   "us_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 580000,
-      "growth": "+3.2%"
+      "count": 825000,
+      "growth": "+2.4%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 450000,
-      "growth": "+2.5%"
+      "count": 680000,
+      "growth": "+1.9%"
     },
     {
       "category": "HR & Business Operations",
-      "count": 310000,
-      "growth": "+1.8%"
+      "count": 410000,
+      "growth": "+1.6%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 680000,
-      "growth": "+2.1%"
+      "count": 760000,
+      "growth": "+1.3%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 510000,
-      "growth": "+1.0%"
+      "count": 515000,
+      "growth": "+0.7%"
     }
   ],
   "pgh_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 7500,
+      "count": 18500,
       "growth": "+3.0%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 5500,
-      "growth": "+2.8%"
+      "count": 12800,
+      "growth": "+2.6%"
     },
     {
       "category": "HR & Business Operations",
-      "count": 3000,
-      "growth": "+1.5%"
+      "count": 7200,
+      "growth": "+1.8%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 8200,
-      "growth": "+1.9%"
+      "count": 15200,
+      "growth": "+1.1%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 6500,
-      "growth": "+0.8%"
+      "count": 10100,
+      "growth": "+0.6%"
     }
   ],
   "top_roles": [
     {
-      "role": "Registered Nurse (RN)",
+      "role": "Registered Nurse",
       "demand": "Very High",
-      "top_skill": "Clinical Competency / Patient Care"
+      "top_skill": "Clinical Care & Patient Management"
     },
     {
-      "role": "Software Engineer / Developer",
-      "demand": "Very High",
-      "top_skill": "Cloud Platforms / Python / Java"
-    },
-    {
-      "role": "Customer Service Representative",
+      "role": "Software Engineer",
       "demand": "High",
-      "top_skill": "Communication / Problem-Solving"
+      "top_skill": "Full-Stack Development (React/Node.js)"
+    },
+    {
+      "role": "Account Executive",
+      "demand": "High",
+      "top_skill": "CRM Software (e.g., Salesforce)"
     },
     {
       "role": "Medical Assistant",
       "demand": "High",
-      "top_skill": "Clinical Procedures / EMR Systems"
+      "top_skill": "Electronic Health Records (EHR) Systems"
     },
     {
-      "role": "HR Generalist / Coordinator",
+      "role": "Data Analyst",
       "demand": "High",
-      "top_skill": "HRIS Proficiency / Employee Relations"
+      "top_skill": "SQL & Data Visualization Tools"
     }
   ]
 }
