@@ -484,5 +484,23 @@
     "score": 90,
     "reason": "This is an excellent match, aligning perfectly with the candidate's target HRIS Analyst role, Workday core skill, HR operations background, and mid-level experience.",
     "date": "2026-08-06"
+  },
+  {
+    "id": "in-183a370f6c54f075",
+    "title": "P&C Technology & Data Analyst",
+    "company": "Imagen Dental Partners",
+    "url": "https://www.indeed.com/viewjob?jk=183a370f6c54f075",
+    "score": 65,
+    "reason": "This role is a strong conceptual match for HR Tech and Data Analysis with explicit mentions of Workday, SQL, and Power BI, but the 5+ years of experience required is a significant hurdle for an entry/mid-level candidate.",
+    "date": "2026-08-07"
+  },
+  {
+    "id": "in-0c2e3e3347e521e9",
+    "title": "Human Resources Information Systems Analyst (Contract)",
+    "company": "Vertex Pharmaceuticals",
+    "url": "https://www.indeed.com/viewjob?jk=0c2e3e3347e521e9",
+    "score": 95,
+    "reason": "This HRIS Analyst role is an excellent match, aligning perfectly with the candidate's target role, HR operations background, Workday skill, and entry/mid-level experience requirements.",
+    "date": "2026-08-07"
   }
 ]
