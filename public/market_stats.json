@@ -1,84 +1,84 @@
 {
-  "date": "2026-08-07",
+  "date": "2026-08-08",
   "us_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 1580000,
-      "growth": "+3.2%"
-    },
-    {
-      "category": "IT & Software Engineering",
-      "count": 980000,
-      "growth": "+2.9%"
-    },
-    {
-      "category": "HR & Business Operations",
-      "count": 480000,
-      "growth": "+1.8%"
-    },
-    {
-      "category": "Sales & Customer Service",
-      "count": 850000,
+      "count": 885000,
       "growth": "+2.1%"
     },
     {
+      "category": "IT & Software Engineering",
+      "count": 730000,
+      "growth": "+1.8%"
+    },
+    {
+      "category": "HR & Business Operations",
+      "count": 390000,
+      "growth": "+1.2%"
+    },
+    {
+      "category": "Sales & Customer Service",
+      "count": 660000,
+      "growth": "+0.9%"
+    },
+    {
       "category": "Administrative & Clerical",
-      "count": 370000,
-      "growth": "+0.7%"
+      "count": 420000,
+      "growth": "+0.5%"
     }
   ],
   "pgh_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 16000,
-      "growth": "+3.6%"
+      "count": 18500,
+      "growth": "+2.5%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 9800,
-      "growth": "+3.1%"
-    },
-    {
-      "category": "HR & Business Operations",
-      "count": 4800,
+      "count": 12500,
       "growth": "+2.0%"
     },
     {
+      "category": "HR & Business Operations",
+      "count": 7200,
+      "growth": "+1.0%"
+    },
+    {
       "category": "Sales & Customer Service",
-      "count": 8500,
-      "growth": "+2.3%"
+      "count": 11200,
+      "growth": "+0.8%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 3700,
-      "growth": "+0.9%"
+      "count": 8100,
+      "growth": "+0.3%"
     }
   ],
   "top_roles": [
     {
-      "role": "Registered Nurse",
+      "role": "Registered Nurse (RN)",
       "demand": "Very High",
-      "top_skill": "Clinical Skills & Patient Care Certifications"
+      "top_skill": "Patient Care, Clinical Documentation"
     },
     {
       "role": "Software Engineer (Cloud/AI Focus)",
-      "demand": "Very High",
-      "top_skill": "AWS/Azure/GCP & Python/Go/Machine Learning"
+      "demand": "High",
+      "top_skill": "AWS/Azure/GCP, Python, Machine Learning"
     },
     {
       "role": "Medical Assistant",
       "demand": "High",
-      "top_skill": "Electronic Health Records (EHR) & Phlebotomy"
-    },
-    {
-      "role": "Data Analyst / Scientist",
-      "demand": "High",
-      "top_skill": "SQL, Python/R, & Data Visualization Tools"
+      "top_skill": "Electronic Health Records (EHR), Phlebotomy"
     },
     {
       "role": "Customer Success Manager",
+      "demand": "High",
+      "top_skill": "CRM Software (e.g., Salesforce), Account Management"
+    },
+    {
+      "role": "Human Resources Business Partner",
       "demand": "Medium",
-      "top_skill": "CRM Software (Salesforce) & Account Management"
+      "top_skill": "Employee Relations, Workforce Planning"
     }
   ]
 }
