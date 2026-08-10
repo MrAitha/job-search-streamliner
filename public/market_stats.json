@@ -1,84 +1,84 @@
 {
-  "date": "2026-08-09",
+  "date": "2026-08-10",
   "us_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 885000,
-      "growth": "+2.1%"
+      "count": 3215000,
+      "growth": "+0.22%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 730000,
-      "growth": "+1.8%"
+      "count": 1180000,
+      "growth": "+0.31%"
     },
     {
       "category": "HR & Business Operations",
-      "count": 390000,
-      "growth": "+1.2%"
+      "count": 845000,
+      "growth": "+0.14%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 660000,
-      "growth": "+0.9%"
+      "count": 2310000,
+      "growth": "+0.18%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 420000,
-      "growth": "+0.5%"
+      "count": 970000,
+      "growth": "-0.05%"
     }
   ],
   "pgh_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 18500,
-      "growth": "+2.5%"
+      "count": 48200,
+      "growth": "+0.25%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 12500,
-      "growth": "+2.0%"
+      "count": 18900,
+      "growth": "+0.38%"
     },
     {
       "category": "HR & Business Operations",
-      "count": 7200,
-      "growth": "+1.0%"
+      "count": 12800,
+      "growth": "+0.17%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 11200,
-      "growth": "+0.8%"
+      "count": 31500,
+      "growth": "+0.20%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 8100,
-      "growth": "+0.3%"
+      "count": 14100,
+      "growth": "-0.02%"
     }
   ],
   "top_roles": [
     {
+      "role": "AI/Machine Learning Engineer",
+      "demand": "Very High",
+      "top_skill": "Python, TensorFlow/PyTorch"
+    },
+    {
       "role": "Registered Nurse (RN)",
       "demand": "Very High",
-      "top_skill": "Patient Care, Clinical Documentation"
+      "top_skill": "Clinical Competency, BLS/ACLS"
     },
     {
-      "role": "Software Engineer (Cloud/AI Focus)",
+      "role": "Cybersecurity Analyst",
       "demand": "High",
-      "top_skill": "AWS/Azure/GCP, Python, Machine Learning"
+      "top_skill": "SIEM Tools, Threat Analysis"
     },
     {
-      "role": "Medical Assistant",
+      "role": "Cloud Solutions Architect",
       "demand": "High",
-      "top_skill": "Electronic Health Records (EHR), Phlebotomy"
+      "top_skill": "AWS/Azure/GCP Certifications"
     },
     {
       "role": "Customer Success Manager",
       "demand": "High",
-      "top_skill": "CRM Software (e.g., Salesforce), Account Management"
-    },
-    {
-      "role": "Human Resources Business Partner",
-      "demand": "Medium",
-      "top_skill": "Employee Relations, Workforce Planning"
+      "top_skill": "Client Relationship Management, CRM"
     }
   ]
 }
