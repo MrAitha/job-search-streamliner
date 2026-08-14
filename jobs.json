@@ -511,5 +511,14 @@
     "score": 88,
     "reason": "This role is a strong match due to its HR operations and compensation focus, explicit requirement for Workday and Power BI, and alignment with the candidate's mid-level experience, despite not explicitly listing SQL.",
     "date": "2026-08-12"
+  },
+  {
+    "id": "in-44c83cfc65101d92",
+    "title": "Leave Management Administrator",
+    "company": "OneDigital",
+    "url": "https://www.indeed.com/viewjob?jk=44c83cfc65101d92",
+    "score": 70,
+    "reason": "The role aligns well with the candidate's HR operations background and experience level, but lacks direct use of their core technical skills like SQL, Power BI, or Workday.",
+    "date": "2026-08-14"
   }
 ]
