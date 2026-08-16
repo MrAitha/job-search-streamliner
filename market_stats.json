@@ -1,84 +1,84 @@
 {
-  "date": "2026-08-15",
+  "date": "2026-08-16",
   "us_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 3215000,
-      "growth": "+0.22%"
+      "count": 920000,
+      "growth": "+1.8%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 1180000,
-      "growth": "+0.31%"
+      "count": 780000,
+      "growth": "+1.5%"
     },
     {
       "category": "HR & Business Operations",
-      "count": 845000,
-      "growth": "+0.14%"
+      "count": 510000,
+      "growth": "+0.8%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 2310000,
-      "growth": "+0.18%"
+      "count": 970000,
+      "growth": "+1.2%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 970000,
-      "growth": "-0.05%"
+      "count": 380000,
+      "growth": "-0.2%"
     }
   ],
   "pgh_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 48200,
-      "growth": "+0.25%"
+      "count": 18500,
+      "growth": "+2.0%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 18900,
-      "growth": "+0.38%"
+      "count": 11500,
+      "growth": "+1.7%"
     },
     {
       "category": "HR & Business Operations",
-      "count": 12800,
-      "growth": "+0.17%"
+      "count": 7800,
+      "growth": "+0.9%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 31500,
-      "growth": "+0.20%"
+      "count": 16000,
+      "growth": "+1.0%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 14100,
-      "growth": "-0.02%"
+      "count": 6200,
+      "growth": "-0.3%"
     }
   ],
   "top_roles": [
     {
-      "role": "AI/Machine Learning Engineer",
-      "demand": "Very High",
-      "top_skill": "Python, TensorFlow/PyTorch"
-    },
-    {
       "role": "Registered Nurse (RN)",
       "demand": "Very High",
-      "top_skill": "Clinical Competency, BLS/ACLS"
+      "top_skill": "ACLS/BLS Certification"
     },
     {
-      "role": "Cybersecurity Analyst",
+      "role": "Software Engineer",
       "demand": "High",
-      "top_skill": "SIEM Tools, Threat Analysis"
+      "top_skill": "Cloud Platform Proficiency (AWS/Azure/GCP)"
     },
     {
-      "role": "Cloud Solutions Architect",
+      "role": "Medical Assistant",
       "demand": "High",
-      "top_skill": "AWS/Azure/GCP Certifications"
+      "top_skill": "Electronic Health Records (EHR) Systems"
     },
     {
-      "role": "Customer Success Manager",
-      "demand": "High",
-      "top_skill": "Client Relationship Management, CRM"
+      "role": "Account Executive",
+      "demand": "Medium-High",
+      "top_skill": "CRM Software (e.g., Salesforce)"
+    },
+    {
+      "role": "HR Generalist",
+      "demand": "Medium",
+      "top_skill": "Talent Acquisition & Employee Relations"
     }
   ]
 }
