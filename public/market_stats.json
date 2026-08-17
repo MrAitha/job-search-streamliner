@@ -1,84 +1,79 @@
 {
-  "date": "2026-08-16",
+  "date": "2026-08-17",
   "us_stats": [
     {
-      "category": "Healthcare & Medical Services",
-      "count": 920000,
-      "growth": "+1.8%"
-    },
-    {
       "category": "IT & Software Engineering",
-      "count": 780000,
-      "growth": "+1.5%"
+      "count": 720000,
+      "growth": "+0.35%"
     },
     {
       "category": "HR & Business Operations",
-      "count": 510000,
-      "growth": "+0.8%"
+      "count": 410000,
+      "growth": "+0.15%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 970000,
-      "growth": "+1.2%"
+      "count": 890000,
+      "growth": "+0.18%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 380000,
-      "growth": "-0.2%"
+      "count": 650000,
+      "growth": "+0.05%"
     }
   ],
   "pgh_stats": [
     {
       "category": "Healthcare & Medical Services",
       "count": 18500,
-      "growth": "+2.0%"
+      "growth": "+0.30%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 11500,
-      "growth": "+1.7%"
+      "count": 9800,
+      "growth": "+0.40%"
     },
     {
       "category": "HR & Business Operations",
-      "count": 7800,
-      "growth": "+0.9%"
+      "count": 4500,
+      "growth": "+0.18%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 16000,
-      "growth": "+1.0%"
+      "count": 11200,
+      "growth": "+0.15%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 6200,
-      "growth": "-0.3%"
+      "count": 7300,
+      "growth": "+0.07%"
     }
   ],
   "top_roles": [
     {
-      "role": "Registered Nurse (RN)",
+      "role": "Registered Nurse",
       "demand": "Very High",
       "top_skill": "ACLS/BLS Certification"
     },
     {
       "role": "Software Engineer",
       "demand": "High",
-      "top_skill": "Cloud Platform Proficiency (AWS/Azure/GCP)"
+      "top_skill": "Proficiency in Python/Java"
     },
     {
       "role": "Medical Assistant",
       "demand": "High",
-      "top_skill": "Electronic Health Records (EHR) Systems"
+      "top_skill": "Certified Medical Assistant (CMA)"
     },
     {
-      "role": "Account Executive",
-      "demand": "Medium-High",
-      "top_skill": "CRM Software (e.g., Salesforce)"
+      "role": "Account Manager",
+      "demand": "Medium",
+      "top_skill": "CRM Software Proficiency (e.g., Salesforce)"
     },
     {
       "role": "HR Generalist",
       "demand": "Medium",
-      "top_skill": "Talent Acquisition & Employee Relations"
+      "top_skill": "HRIS Management (e.g., Workday)"
     }
   ]
 }
