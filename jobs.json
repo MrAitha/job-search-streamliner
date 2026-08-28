@@ -547,5 +547,41 @@
     "score": 60,
     "reason": "The role perfectly aligns with the candidate's HRIS Analyst target, HR operations background, and Workday skills, but the senior-level requirement of 5+ years experience is a significant mismatch for an entry/mid-level candidate.",
     "date": "2026-08-27"
+  },
+  {
+    "id": "in-3e581d44a9c3bb48",
+    "title": "Senior Business Systems Analyst",
+    "company": "PNC Financial Services Group",
+    "url": "https://www.indeed.com/viewjob?jk=3e581d44a9c3bb48",
+    "score": 65,
+    "reason": "The role aligns well with SQL and Power BI skills and mentions HRIS, but the 'Senior' title might exceed the candidate's entry/mid-level experience and it's not a primary HR-focused role.",
+    "date": "2026-08-28"
+  },
+  {
+    "id": "li-4455749688",
+    "title": "Staff HRIS Analyst",
+    "company": "Form Energy",
+    "url": "https://www.linkedin.com/jobs/view/4455749688",
+    "score": 95,
+    "reason": "The \"Staff HRIS Analyst\" role is a direct match for the candidate's target role and experience level, aligning with the highest priority for HR-related positions despite the empty job description.",
+    "date": "2026-08-28"
+  },
+  {
+    "id": "li-4454076030",
+    "title": "HR Systems Specialist - Workday",
+    "company": "Troutman Pepper Locke LLP",
+    "url": "https://www.linkedin.com/jobs/view/4454076030",
+    "score": 95,
+    "reason": "This HR-focused role explicitly mentions Workday, a core skill, aligning perfectly with the candidate's background and target roles.",
+    "date": "2026-08-28"
+  },
+  {
+    "id": "li-4460128094",
+    "title": "People Operations Analyst",
+    "company": "Aurora",
+    "url": "https://www.linkedin.com/jobs/view/4460128094",
+    "score": 90,
+    "reason": "The 'People Operations Analyst' job title aligns perfectly with the candidate's HR background and target HR roles, which are explicitly prioritized for high scores.",
+    "date": "2026-08-28"
   }
 ]
