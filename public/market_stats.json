@@ -1,84 +1,84 @@
 {
-  "date": "2026-08-28",
+  "date": "2026-08-29",
   "us_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 1285000,
-      "growth": "+0.25%"
+      "count": 1150000,
+      "growth": "+0.32%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 975000,
-      "growth": "+0.38%"
+      "count": 880000,
+      "growth": "+0.25%"
     },
     {
       "category": "HR & Business Operations",
-      "count": 610000,
-      "growth": "+0.17%"
+      "count": 570000,
+      "growth": "+0.18%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 1150000,
-      "growth": "+0.14%"
+      "count": 980000,
+      "growth": "+0.28%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 820000,
-      "growth": "+0.06%"
+      "count": 680000,
+      "growth": "+0.07%"
     }
   ],
   "pgh_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 19500,
-      "growth": "+0.29%"
+      "count": 17500,
+      "growth": "+0.35%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 13000,
-      "growth": "+0.42%"
+      "count": 7000,
+      "growth": "+0.28%"
     },
     {
       "category": "HR & Business Operations",
-      "count": 7200,
-      "growth": "+0.16%"
+      "count": 3400,
+      "growth": "+0.15%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 16000,
-      "growth": "+0.13%"
+      "count": 6800,
+      "growth": "+0.20%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 10500,
-      "growth": "+0.04%"
+      "count": 4600,
+      "growth": "+0.05%"
     }
   ],
   "top_roles": [
     {
       "role": "Registered Nurse",
       "demand": "Very High",
-      "top_skill": "BLS/ACLS Certification"
+      "top_skill": "Clinical Acumen & BLS Certification"
     },
     {
-      "role": "Software Engineer (AI/ML Specialist)",
+      "role": "Software Engineer",
       "demand": "Very High",
-      "top_skill": "Machine Learning Frameworks (e.g., PyTorch, TensorFlow)"
+      "top_skill": "Python/Java/JavaScript & Cloud Proficiency"
     },
     {
-      "role": "Medical Assistant",
+      "role": "Account Manager",
       "demand": "High",
-      "top_skill": "Certified Medical Assistant (CMA)"
+      "top_skill": "CRM (Salesforce) & Negotiation"
     },
     {
-      "role": "Data Analyst",
+      "role": "Customer Service Specialist",
       "demand": "High",
-      "top_skill": "SQL & Data Visualization (Tableau/Power BI)"
+      "top_skill": "Conflict Resolution & Communication"
     },
     {
-      "role": "Account Manager / Sales Representative",
+      "role": "Human Resources Generalist",
       "demand": "Medium",
-      "top_skill": "CRM Software Proficiency (e.g., Salesforce)"
+      "top_skill": "HRIS Management & Employee Relations"
     }
   ]
 }
