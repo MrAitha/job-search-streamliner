@@ -1,84 +1,84 @@
 {
-  "date": "2026-08-30",
+  "date": "2026-08-31",
   "us_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 1150000,
-      "growth": "+0.32%"
+      "count": 920000,
+      "growth": "+3.2%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 880000,
-      "growth": "+0.25%"
+      "count": 780000,
+      "growth": "+2.5%"
     },
     {
       "category": "HR & Business Operations",
-      "count": 570000,
-      "growth": "+0.18%"
+      "count": 410000,
+      "growth": "+1.8%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 980000,
-      "growth": "+0.28%"
+      "count": 850000,
+      "growth": "+1.2%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 680000,
-      "growth": "+0.07%"
+      "count": 530000,
+      "growth": "-0.3%"
     }
   ],
   "pgh_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 17500,
-      "growth": "+0.35%"
+      "count": 13500,
+      "growth": "+3.5%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 7000,
-      "growth": "+0.28%"
+      "count": 11000,
+      "growth": "+2.8%"
     },
     {
       "category": "HR & Business Operations",
-      "count": 3400,
-      "growth": "+0.15%"
+      "count": 5200,
+      "growth": "+1.5%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 6800,
-      "growth": "+0.20%"
+      "count": 9800,
+      "growth": "+1.0%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 4600,
-      "growth": "+0.05%"
+      "count": 6500,
+      "growth": "-0.5%"
     }
   ],
   "top_roles": [
     {
-      "role": "Registered Nurse",
+      "role": "AI/Machine Learning Engineer",
       "demand": "Very High",
-      "top_skill": "Clinical Acumen & BLS Certification"
+      "top_skill": "Python & Deep Learning Frameworks"
     },
     {
-      "role": "Software Engineer",
+      "role": "Registered Nurse (RN)",
       "demand": "Very High",
-      "top_skill": "Python/Java/JavaScript & Cloud Proficiency"
+      "top_skill": "BLS/ACLS Certification"
     },
     {
-      "role": "Account Manager",
+      "role": "Cybersecurity Analyst",
       "demand": "High",
-      "top_skill": "CRM (Salesforce) & Negotiation"
+      "top_skill": "Network Security & SIEM Tools"
     },
     {
-      "role": "Customer Service Specialist",
+      "role": "Data Scientist",
       "demand": "High",
-      "top_skill": "Conflict Resolution & Communication"
+      "top_skill": "SQL, Python/R, & Statistical Modeling"
     },
     {
-      "role": "Human Resources Generalist",
+      "role": "Digital Marketing Specialist",
       "demand": "Medium",
-      "top_skill": "HRIS Management & Employee Relations"
+      "top_skill": "SEO, SEM, & Content Strategy"
     }
   ]
 }
