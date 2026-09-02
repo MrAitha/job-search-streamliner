@@ -1,84 +1,84 @@
 {
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "us_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 1150000,
-      "growth": "+0.3%"
+      "count": 780000,
+      "growth": "+2.8%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 950000,
-      "growth": "+0.6%"
+      "count": 610000,
+      "growth": "+1.9%"
     },
     {
       "category": "HR & Business Operations",
-      "count": 420000,
-      "growth": "+0.2%"
+      "count": 320000,
+      "growth": "+1.1%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 1050000,
-      "growth": "+0.3%"
+      "count": 550000,
+      "growth": "+1.5%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 750000,
-      "growth": "+0.1%"
+      "count": 410000,
+      "growth": "+0.8%"
     }
   ],
   "pgh_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 18500,
-      "growth": "+0.4%"
+      "count": 28000,
+      "growth": "+3.1%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 14000,
-      "growth": "+0.7%"
+      "count": 14500,
+      "growth": "+2.3%"
     },
     {
       "category": "HR & Business Operations",
-      "count": 6500,
-      "growth": "+0.2%"
+      "count": 7200,
+      "growth": "+0.9%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 13000,
-      "growth": "+0.3%"
+      "count": 12000,
+      "growth": "+1.4%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 11000,
-      "growth": "+0.1%"
+      "count": 9500,
+      "growth": "+0.6%"
     }
   ],
   "top_roles": [
     {
       "role": "Registered Nurse (RN)",
       "demand": "Very High",
-      "top_skill": "Patient Care & Clinical Judgment"
+      "top_skill": "Clinical Skills & Patient Care"
     },
     {
       "role": "Software Engineer",
-      "demand": "Very High",
+      "demand": "High",
       "top_skill": "Cloud Platforms (AWS/Azure) & Data Structures"
-    },
-    {
-      "role": "Data Analyst",
-      "demand": "High",
-      "top_skill": "SQL & Data Visualization (Tableau/Power BI)"
-    },
-    {
-      "role": "Account Manager",
-      "demand": "High",
-      "top_skill": "Client Relationship Management & Negotiation"
     },
     {
       "role": "Medical Assistant",
       "demand": "High",
-      "top_skill": "Electronic Health Records (EHR) & Patient Intake"
+      "top_skill": "Electronic Health Records (EHR) & Clinical Procedures"
+    },
+    {
+      "role": "Customer Service Representative",
+      "demand": "High",
+      "top_skill": "Communication & Problem-Solving"
+    },
+    {
+      "role": "HR Generalist",
+      "demand": "Medium",
+      "top_skill": "Employee Relations & HRIS Management"
     }
   ]
 }
