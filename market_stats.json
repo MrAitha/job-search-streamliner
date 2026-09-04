@@ -1,84 +1,84 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "us_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 780000,
-      "growth": "+2.8%"
+      "count": 465000,
+      "growth": "+0.8%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 610000,
-      "growth": "+1.9%"
+      "count": 390000,
+      "growth": "+1.2%"
     },
     {
       "category": "HR & Business Operations",
-      "count": 320000,
-      "growth": "+1.1%"
+      "count": 185000,
+      "growth": "+0.5%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 550000,
-      "growth": "+1.5%"
+      "count": 330000,
+      "growth": "+0.6%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 410000,
-      "growth": "+0.8%"
+      "count": 260000,
+      "growth": "+0.2%"
     }
   ],
   "pgh_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 28000,
-      "growth": "+3.1%"
+      "count": 18500,
+      "growth": "+0.7%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 14500,
-      "growth": "+2.3%"
+      "count": 12500,
+      "growth": "+1.0%"
     },
     {
       "category": "HR & Business Operations",
-      "count": 7200,
-      "growth": "+0.9%"
+      "count": 6200,
+      "growth": "+0.4%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 12000,
-      "growth": "+1.4%"
+      "count": 10500,
+      "growth": "+0.5%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 9500,
-      "growth": "+0.6%"
+      "count": 8200,
+      "growth": "+0.1%"
     }
   ],
   "top_roles": [
     {
-      "role": "Registered Nurse (RN)",
+      "role": "Registered Nurse",
       "demand": "Very High",
-      "top_skill": "Clinical Skills & Patient Care"
+      "top_skill": "Advanced Cardiac Life Support (ACLS) Certification"
     },
     {
-      "role": "Software Engineer",
-      "demand": "High",
-      "top_skill": "Cloud Platforms (AWS/Azure) & Data Structures"
+      "role": "Software Engineer (Cloud/AI)",
+      "demand": "Very High",
+      "top_skill": "Python & Cloud Platform Certifications (AWS/Azure)"
     },
     {
-      "role": "Medical Assistant",
+      "role": "Data Analyst",
       "demand": "High",
-      "top_skill": "Electronic Health Records (EHR) & Clinical Procedures"
+      "top_skill": "SQL & Data Visualization (e.g., Tableau, Power BI)"
     },
     {
-      "role": "Customer Service Representative",
+      "role": "Account Manager",
       "demand": "High",
-      "top_skill": "Communication & Problem-Solving"
+      "top_skill": "CRM Software Proficiency (e.g., Salesforce)"
     },
     {
       "role": "HR Generalist",
       "demand": "Medium",
-      "top_skill": "Employee Relations & HRIS Management"
+      "top_skill": "HR Information System (HRIS) Management"
     }
   ]
 }
