@@ -601,5 +601,23 @@
     "score": 85,
     "reason": "This is a strong match as an HR operations role (Benefits Analyst) aligning with the candidate's HR background and preferred HRIS experience, though SQL and Power BI are not explicitly mentioned.",
     "date": "2026-09-03"
+  },
+  {
+    "id": "in-b57863e16958ce8f",
+    "title": "Workday Security Analyst",
+    "company": "Moffitt Cancer Center",
+    "url": "https://www.indeed.com/viewjob?jk=b57863e16958ce8f",
+    "score": 92,
+    "reason": "This is a very strong match due to its Workday security focus and HRIS nature, aligning perfectly with the candidate's Workday skill and HR operations background, despite the 3+ years experience being slightly above entry-level.",
+    "date": "2026-09-04"
+  },
+  {
+    "id": "li-4461334654",
+    "title": "IT Support Tech I - FT",
+    "company": "Bay Area Hospital",
+    "url": "https://www.linkedin.com/jobs/view/4461334654",
+    "score": 78,
+    "reason": "This role is a strong match for the candidate's IT training, target IT Support role, and entry-level experience, though it doesn't explicitly leverage core skills like SQL, Power BI, or Workday.",
+    "date": "2026-09-04"
   }
 ]
