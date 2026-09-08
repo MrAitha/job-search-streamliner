@@ -1,84 +1,84 @@
 {
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "us_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 465000,
-      "growth": "+0.8%"
+      "count": 885000,
+      "growth": "+2.8%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 390000,
-      "growth": "+1.2%"
+      "count": 750000,
+      "growth": "+1.9%"
     },
     {
       "category": "HR & Business Operations",
-      "count": 185000,
-      "growth": "+0.5%"
+      "count": 390000,
+      "growth": "+1.1%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 330000,
-      "growth": "+0.6%"
+      "count": 670000,
+      "growth": "+1.4%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 260000,
-      "growth": "+0.2%"
+      "count": 310000,
+      "growth": "-0.3%"
     }
   ],
   "pgh_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 18500,
-      "growth": "+0.7%"
+      "count": 19500,
+      "growth": "+3.1%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 12500,
-      "growth": "+1.0%"
+      "count": 11000,
+      "growth": "+2.2%"
     },
     {
       "category": "HR & Business Operations",
-      "count": 6200,
-      "growth": "+0.4%"
+      "count": 5800,
+      "growth": "+1.3%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 10500,
-      "growth": "+0.5%"
+      "count": 8500,
+      "growth": "+1.6%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 8200,
-      "growth": "+0.1%"
+      "count": 4200,
+      "growth": "-0.1%"
     }
   ],
   "top_roles": [
     {
       "role": "Registered Nurse",
       "demand": "Very High",
-      "top_skill": "Advanced Cardiac Life Support (ACLS) Certification"
+      "top_skill": "Clinical Skills / NCLEX Certification"
     },
     {
-      "role": "Software Engineer (Cloud/AI)",
-      "demand": "Very High",
-      "top_skill": "Python & Cloud Platform Certifications (AWS/Azure)"
+      "role": "Software Engineer",
+      "demand": "High",
+      "top_skill": "Python/Java Development / Cloud Platforms"
     },
     {
       "role": "Data Analyst",
       "demand": "High",
-      "top_skill": "SQL & Data Visualization (e.g., Tableau, Power BI)"
+      "top_skill": "SQL / Data Visualization / Statistical Analysis"
     },
     {
-      "role": "Account Manager",
+      "role": "Medical Assistant",
       "demand": "High",
-      "top_skill": "CRM Software Proficiency (e.g., Salesforce)"
+      "top_skill": "Patient Care / Electronic Health Records (EHR)"
     },
     {
-      "role": "HR Generalist",
-      "demand": "Medium",
-      "top_skill": "HR Information System (HRIS) Management"
+      "role": "Project Manager",
+      "demand": "High",
+      "top_skill": "Agile Methodologies / PMP Certification"
     }
   ]
 }
