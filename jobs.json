@@ -628,5 +628,32 @@
     "score": 93,
     "reason": "This is an exceptional match, aligning perfectly with the candidate's HR operations background, mid-level experience, and core skills in Power BI and SQL for a high-priority People Analytics role.",
     "date": "2026-09-08"
+  },
+  {
+    "id": "in-3e1cb5e6d04f26cb",
+    "title": "Analyst I, HRIS",
+    "company": "ACV Auctions",
+    "url": "https://www.indeed.com/viewjob?jk=3e1cb5e6d04f26cb",
+    "score": 90,
+    "reason": "This is an excellent match for an entry-level HRIS Analyst role, aligning perfectly with the candidate's HR operations background and IT training, despite not explicitly mentioning Workday, SQL, or Power BI as primary requirements.",
+    "date": "2026-09-09"
+  },
+  {
+    "id": "in-a67279031e87dbff",
+    "title": "Payroll Analyst (Remote) New",
+    "company": "Businessolver",
+    "url": "https://www.indeed.com/viewjob?jk=a67279031e87dbff",
+    "score": 85,
+    "reason": "This HR-related Payroll Analyst role aligns strongly with the candidate's HR operations background, entry/mid-level experience, and preferred Workday skills, despite not requiring SQL or Power BI.",
+    "date": "2026-09-09"
+  },
+  {
+    "id": "in-fc9b433118bb4b1f",
+    "title": "Payroll Analyst (Remote)",
+    "company": "Businessolver",
+    "url": "https://www.indeed.com/viewjob?jk=fc9b433118bb4b1f",
+    "score": 90,
+    "reason": "The Payroll Analyst role aligns perfectly with the candidate's HR operations background and preferred Workday experience, fitting the highest priority for HR-related jobs and entry/mid-level experience.",
+    "date": "2026-09-09"
   }
 ]
