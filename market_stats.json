@@ -1,84 +1,84 @@
 {
-  "date": "2026-09-11",
+  "date": "2026-09-12",
   "us_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 885000,
-      "growth": "+2.8%"
+      "count": 3150000,
+      "growth": "+0.38%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 750000,
-      "growth": "+1.9%"
+      "count": 1420000,
+      "growth": "+0.45%"
     },
     {
       "category": "HR & Business Operations",
-      "count": 390000,
-      "growth": "+1.1%"
+      "count": 875000,
+      "growth": "+0.22%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 670000,
-      "growth": "+1.4%"
+      "count": 1980000,
+      "growth": "+0.31%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 310000,
-      "growth": "-0.3%"
+      "count": 1050000,
+      "growth": "+0.15%"
     }
   ],
   "pgh_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 19500,
-      "growth": "+3.1%"
+      "count": 22000,
+      "growth": "+0.42%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 11000,
-      "growth": "+2.2%"
+      "count": 13500,
+      "growth": "+0.51%"
     },
     {
       "category": "HR & Business Operations",
-      "count": 5800,
-      "growth": "+1.3%"
+      "count": 6000,
+      "growth": "+0.25%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 8500,
-      "growth": "+1.6%"
+      "count": 15500,
+      "growth": "+0.33%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 4200,
-      "growth": "-0.1%"
+      "count": 7500,
+      "growth": "+0.18%"
     }
   ],
   "top_roles": [
     {
       "role": "Registered Nurse",
       "demand": "Very High",
-      "top_skill": "Clinical Skills / NCLEX Certification"
+      "top_skill": "Patient Care & Clinical Expertise"
     },
     {
       "role": "Software Engineer",
-      "demand": "High",
-      "top_skill": "Python/Java Development / Cloud Platforms"
+      "demand": "Very High",
+      "top_skill": "Python/Java & Cloud Platforms"
     },
     {
-      "role": "Data Analyst",
+      "role": "Customer Service Representative",
       "demand": "High",
-      "top_skill": "SQL / Data Visualization / Statistical Analysis"
+      "top_skill": "Communication & Problem-Solving"
+    },
+    {
+      "role": "Human Resources Generalist",
+      "demand": "High",
+      "top_skill": "Employee Relations & HRIS Proficiency"
     },
     {
       "role": "Medical Assistant",
       "demand": "High",
-      "top_skill": "Patient Care / Electronic Health Records (EHR)"
-    },
-    {
-      "role": "Project Manager",
-      "demand": "High",
-      "top_skill": "Agile Methodologies / PMP Certification"
+      "top_skill": "Clinical Procedures & EHR Management"
     }
   ]
 }
