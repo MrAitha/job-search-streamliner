@@ -673,5 +673,14 @@
     "score": 75,
     "reason": "The role strongly aligns with HRIS and HR operations, a high-priority area, and IT support background, but does not explicitly require SQL or Power BI skills.",
     "date": "2026-09-15"
+  },
+  {
+    "id": "in-d06a8460efe05de5",
+    "title": "Senior Benefits Analyst",
+    "company": "FullSteam LLC",
+    "url": "https://www.indeed.com/viewjob?jk=d06a8460efe05de5",
+    "score": 70,
+    "reason": "The role is highly aligned with HR operations and explicitly uses Workday, but the 'Senior' title and 3-5 years experience are high for an entry/mid-level candidate, and SQL/Power BI are not core requirements.",
+    "date": "2026-09-17"
   }
 ]
