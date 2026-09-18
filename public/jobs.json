@@ -682,5 +682,23 @@
     "score": 70,
     "reason": "The role is highly aligned with HR operations and explicitly uses Workday, but the 'Senior' title and 3-5 years experience are high for an entry/mid-level candidate, and SQL/Power BI are not core requirements.",
     "date": "2026-09-17"
+  },
+  {
+    "id": "in-a6e8d24328a2cd4a",
+    "title": "Payroll Systems Analyst",
+    "company": "TeamHealth",
+    "url": "https://www.indeed.com/viewjob?jk=a6e8d24328a2cd4a",
+    "score": 90,
+    "reason": "This is an excellent match due to the strong alignment with HR systems and operations, explicit mention of Workday experience, and a fitting mid-level experience requirement.",
+    "date": "2026-09-18"
+  },
+  {
+    "id": "in-95f2977fccaa601b",
+    "title": "Compensation & People Analytics Analyst",
+    "company": "Quantum Health",
+    "url": "https://www.indeed.com/viewjob?jk=95f2977fccaa601b",
+    "score": 92,
+    "reason": "This job is an excellent match, directly aligning with the candidate's HR operations background, core skills in Power BI, SQL, and Workday, and the high-priority People Analytics target role.",
+    "date": "2026-09-18"
   }
 ]
