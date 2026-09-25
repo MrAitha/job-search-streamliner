@@ -1,84 +1,84 @@
 {
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "us_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 850000,
-      "growth": "+2.8%"
+      "count": 785400,
+      "growth": "+3.8%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 720000,
-      "growth": "+3.5%"
+      "count": 612700,
+      "growth": "+2.1%"
     },
     {
       "category": "HR & Business Operations",
-      "count": 380000,
-      "growth": "+1.5%"
+      "count": 398100,
+      "growth": "+1.4%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 1100000,
-      "growth": "+2.2%"
+      "count": 535200,
+      "growth": "+1.1%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 650000,
-      "growth": "+0.8%"
+      "count": 461800,
+      "growth": "+0.6%"
     }
   ],
   "pgh_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 28000,
-      "growth": "+3.1%"
+      "count": 7350,
+      "growth": "+4.2%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 19000,
-      "growth": "+4.0%"
-    },
-    {
-      "category": "HR & Business Operations",
-      "count": 10500,
-      "growth": "+1.7%"
-    },
-    {
-      "category": "Sales & Customer Service",
-      "count": 35000,
+      "count": 4200,
       "growth": "+2.5%"
     },
     {
+      "category": "HR & Business Operations",
+      "count": 2900,
+      "growth": "+1.5%"
+    },
+    {
+      "category": "Sales & Customer Service",
+      "count": 3600,
+      "growth": "+1.0%"
+    },
+    {
       "category": "Administrative & Clerical",
-      "count": 22000,
-      "growth": "+0.9%"
+      "count": 3300,
+      "growth": "+0.5%"
     }
   ],
   "top_roles": [
     {
       "role": "Registered Nurse",
       "demand": "Very High",
-      "top_skill": "ACLS/BLS Certification"
+      "top_skill": "Clinical Competency & BLS/ACLS Certification"
     },
     {
-      "role": "Software Engineer",
+      "role": "Software Engineer (Cloud/AI)",
       "demand": "High",
-      "top_skill": "Cloud Platform Proficiency (AWS/Azure/GCP)"
-    },
-    {
-      "role": "Account Manager",
-      "demand": "High",
-      "top_skill": "CRM Software (e.g., Salesforce)"
+      "top_skill": "Cloud Computing Platforms (AWS/Azure) & AI/ML Frameworks"
     },
     {
       "role": "Medical Assistant",
       "demand": "High",
-      "top_skill": "Clinical Procedures & EMR"
+      "top_skill": "Electronic Health Records (EHR) & Patient Communication"
     },
     {
-      "role": "HR Generalist",
-      "demand": "Medium",
-      "top_skill": "HRIS Management"
+      "role": "Digital Marketing Specialist",
+      "demand": "High",
+      "top_skill": "SEO/SEM & Content Strategy"
+    },
+    {
+      "role": "HR Business Partner",
+      "demand": "Medium-High",
+      "top_skill": "Strategic Workforce Planning & Employee Relations"
     }
   ]
 }

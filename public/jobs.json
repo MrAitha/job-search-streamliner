@@ -736,5 +736,14 @@
     "score": 75,
     "reason": "This is a strong HRIS Analyst match for the candidate's HR operations background and experience level, despite the job description's focus on SAP instead of Workday and lack of explicit mention of SQL/Power BI.",
     "date": "2026-09-24"
+  },
+  {
+    "id": "li-4469225202",
+    "title": "IT Operations Technician II (On-Site)",
+    "company": "Roseburg Forest Products",
+    "url": "https://www.linkedin.com/jobs/view/4469225202",
+    "score": 65,
+    "reason": "While the IT Operations role aligns with the candidate's IT support target and background, the absence of a job description prevents confirmation of alignment with core skills like SQL, Power BI, or Workday.",
+    "date": "2026-09-25"
   }
 ]
