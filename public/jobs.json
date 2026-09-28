@@ -754,5 +754,14 @@
     "score": 65,
     "reason": "This is a strong match for an HR-related role and mid-level experience, but it lacks explicit mention of the candidate's core technical skills such as SQL, Power BI, or Workday.",
     "date": "2026-09-26"
+  },
+  {
+    "id": "li-4471651965",
+    "title": "Human Resources Professional",
+    "company": "Roseburg Forest Products",
+    "url": "https://www.linkedin.com/jobs/view/4471651965",
+    "score": 80,
+    "reason": "The job title \"Human Resources Professional\" strongly aligns with the candidate's HR operations background and target roles, despite the missing job description details.",
+    "date": "2026-09-28"
   }
 ]
