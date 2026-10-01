@@ -1,84 +1,84 @@
 {
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "us_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 1250000,
-      "growth": "+0.28%"
+      "count": 865000,
+      "growth": "+0.21%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 910000,
-      "growth": "+0.35%"
+      "count": 720000,
+      "growth": "+0.34%"
     },
     {
       "category": "HR & Business Operations",
-      "count": 470000,
-      "growth": "+0.18%"
+      "count": 360000,
+      "growth": "+0.12%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 1150000,
-      "growth": "+0.22%"
+      "count": 910000,
+      "growth": "+0.18%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 560000,
-      "growth": "+0.07%"
+      "count": 405000,
+      "growth": "+0.06%"
     }
   ],
   "pgh_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 23000,
-      "growth": "+0.38%"
-    },
-    {
-      "category": "IT & Software Engineering",
-      "count": 10500,
-      "growth": "+0.45%"
-    },
-    {
-      "category": "HR & Business Operations",
-      "count": 5200,
+      "count": 23500,
       "growth": "+0.25%"
     },
     {
+      "category": "IT & Software Engineering",
+      "count": 19000,
+      "growth": "+0.38%"
+    },
+    {
+      "category": "HR & Business Operations",
+      "count": 8200,
+      "growth": "+0.13%"
+    },
+    {
       "category": "Sales & Customer Service",
-      "count": 12500,
-      "growth": "+0.28%"
+      "count": 20500,
+      "growth": "+0.19%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 6100,
-      "growth": "+0.12%"
+      "count": 10200,
+      "growth": "+0.05%"
     }
   ],
   "top_roles": [
     {
-      "role": "Registered Nurse (RN)",
+      "role": "Software Engineer",
       "demand": "Very High",
-      "top_skill": "Clinical Care & Patient Management"
+      "top_skill": "Cloud-native Development & AI Integration"
     },
     {
-      "role": "Software Engineer (AI/ML)",
+      "role": "Registered Nurse",
       "demand": "Very High",
-      "top_skill": "Python & Machine Learning Frameworks"
+      "top_skill": "Electronic Health Record (EHR) Management & Clinical Judgment"
+    },
+    {
+      "role": "Data Scientist",
+      "demand": "High",
+      "top_skill": "Machine Learning Operations (MLOps) & Big Data Analytics"
+    },
+    {
+      "role": "Account Executive",
+      "demand": "High",
+      "top_skill": "CRM Proficiency & B2B Sales Strategy"
     },
     {
       "role": "Medical Assistant",
       "demand": "High",
-      "top_skill": "Electronic Health Records (EHR) Proficiency"
-    },
-    {
-      "role": "Sales Development Representative (SDR)",
-      "demand": "High",
-      "top_skill": "Prospecting & CRM Software (e.g., Salesforce)"
-    },
-    {
-      "role": "Human Resources Generalist",
-      "demand": "Medium",
-      "top_skill": "Employee Relations & HRIS Management"
+      "top_skill": "Phlebotomy & Clinical Procedures Certification"
     }
   ]
 }
