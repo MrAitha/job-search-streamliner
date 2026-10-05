@@ -1,84 +1,84 @@
 {
-  "date": "2026-10-04",
+  "date": "2026-10-05",
   "us_stats": [
     {
       "category": "Healthcare & Medical Services",
       "count": 1850000,
-      "growth": "+0.15%"
+      "growth": "+3.2%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 1550000,
-      "growth": "+0.28%"
+      "count": 980000,
+      "growth": "+1.8%"
     },
     {
       "category": "HR & Business Operations",
-      "count": 950000,
-      "growth": "+0.08%"
+      "count": 610000,
+      "growth": "+1.1%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 1600000,
-      "growth": "+0.12%"
+      "count": 1250000,
+      "growth": "+1.5%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 850000,
-      "growth": "+0.02%"
+      "count": 820000,
+      "growth": "+0.3%"
     }
   ],
   "pgh_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 22000,
-      "growth": "+0.25%"
+      "count": 22500,
+      "growth": "+3.5%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 14000,
-      "growth": "+0.35%"
+      "count": 11500,
+      "growth": "+2.1%"
     },
     {
       "category": "HR & Business Operations",
-      "count": 6500,
-      "growth": "+0.10%"
+      "count": 6800,
+      "growth": "+1.3%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 11000,
-      "growth": "+0.08%"
+      "count": 14200,
+      "growth": "+1.7%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 7500,
-      "growth": "+0.01%"
+      "count": 9100,
+      "growth": "+0.5%"
     }
   ],
   "top_roles": [
     {
-      "role": "Registered Nurse (RN)",
+      "role": "Registered Nurse",
       "demand": "Very High",
-      "top_skill": "Clinical Skills, Patient Care"
+      "top_skill": "BLS/ACLS Certification"
     },
     {
-      "role": "Software Engineer/Developer",
+      "role": "Software Engineer (Full-Stack)",
       "demand": "Very High",
-      "top_skill": "Proficiency in specific programming languages (e.g., Python, Java)"
+      "top_skill": "Cloud Platforms (AWS/Azure) & DevOps"
     },
     {
       "role": "Medical Assistant",
       "demand": "High",
-      "top_skill": "Clinical Procedures, Electronic Health Records (EHR)"
+      "top_skill": "Certified Medical Assistant (CMA)"
     },
     {
-      "role": "Account Manager / Sales Representative",
+      "role": "Account Executive",
       "demand": "High",
-      "top_skill": "Client Relationship Management, Negotiation"
+      "top_skill": "CRM Proficiency & Negotiation"
     },
     {
-      "role": "Data Analyst",
-      "demand": "High",
-      "top_skill": "Data Visualization, SQL, Python/R"
+      "role": "Human Resources Generalist",
+      "demand": "Medium",
+      "top_skill": "HRIS Management & Employee Relations"
     }
   ]
 }

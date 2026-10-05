@@ -781,5 +781,14 @@
     "score": 95,
     "reason": "This HRIS Analyst role is an excellent fit, aligning perfectly with the candidate's target roles, HR operations background, IT support experience, and strong Workday skills at an appropriate entry/mid-level.",
     "date": "2026-10-03"
+  },
+  {
+    "id": "in-3a2917bf60a58d8d",
+    "title": "Senior HRIS Product Analyst",
+    "company": "MetLife",
+    "url": "https://www.indeed.com/viewjob?jk=3a2917bf60a58d8d",
+    "score": 80,
+    "reason": "This is a strong match due to its HRIS focus, direct mention of Workday, and alignment with HR operations and data analysis, despite the 'Senior' title slightly exceeding the candidate's stated experience level and the absence of explicit SQL/Power BI requirements.",
+    "date": "2026-10-05"
   }
 ]
