@@ -790,5 +790,23 @@
     "score": 80,
     "reason": "This is a strong match due to its HRIS focus, direct mention of Workday, and alignment with HR operations and data analysis, despite the 'Senior' title slightly exceeding the candidate's stated experience level and the absence of explicit SQL/Power BI requirements.",
     "date": "2026-10-05"
+  },
+  {
+    "id": "li-4474088754",
+    "title": "Oracle Payroll Cloud & UKG Systems Specialist 259225",
+    "company": "Medix\u2122",
+    "url": "https://www.linkedin.com/jobs/view/4474088754",
+    "score": 70,
+    "reason": "This role aligns well with the candidate's HR operations background and HRIS Analyst target, despite not explicitly mentioning Workday or other core tools.",
+    "date": "2026-10-09"
+  },
+  {
+    "id": "li-4473348734",
+    "title": "IT Operations Technician II (On-Site)",
+    "company": "Roseburg Forest Products",
+    "url": "https://www.linkedin.com/jobs/view/4473348734",
+    "score": 65,
+    "reason": "The role aligns with the candidate's IT Support target and experience level, but the absence of a job description prevents confirmation of core analytical skill alignment.",
+    "date": "2026-10-09"
   }
 ]
