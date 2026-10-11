@@ -1,57 +1,57 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "us_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 1850000,
-      "growth": "+0.28%"
+      "count": 1250000,
+      "growth": "+0.25%"
     },
     {
       "category": "IT & Software Engineering",
       "count": 980000,
-      "growth": "+0.15%"
+      "growth": "+0.18%"
     },
     {
       "category": "HR & Business Operations",
-      "count": 650000,
-      "growth": "+0.09%"
+      "count": 620000,
+      "growth": "+0.15%"
     },
     {
       "category": "Sales & Customer Service",
       "count": 1150000,
-      "growth": "+0.12%"
+      "growth": "+0.20%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 820000,
-      "growth": "+0.05%"
+      "count": 730000,
+      "growth": "-0.05%"
     }
   ],
   "pgh_stats": [
     {
       "category": "Healthcare & Medical Services",
-      "count": 29500,
+      "count": 29000,
       "growth": "+0.35%"
     },
     {
       "category": "IT & Software Engineering",
-      "count": 16000,
-      "growth": "+0.20%"
+      "count": 19500,
+      "growth": "+0.22%"
     },
     {
       "category": "HR & Business Operations",
-      "count": 9000,
+      "count": 10500,
       "growth": "+0.10%"
     },
     {
       "category": "Sales & Customer Service",
-      "count": 13000,
+      "count": 16000,
       "growth": "+0.15%"
     },
     {
       "category": "Administrative & Clerical",
-      "count": 10500,
-      "growth": "+0.07%"
+      "count": 12500,
+      "growth": "-0.10%"
     }
   ],
   "top_roles": [
@@ -61,24 +61,24 @@
       "top_skill": "BLS/ACLS Certification"
     },
     {
-      "role": "Software Engineer",
+      "role": "Software Engineer (Full Stack)",
       "demand": "High",
-      "top_skill": "Python/Cloud Platforms (e.g., AWS, Azure)"
+      "top_skill": "Cloud Computing (e.g., AWS, Azure)"
     },
     {
       "role": "Medical Assistant",
       "demand": "High",
-      "top_skill": "EHR Proficiency"
+      "top_skill": "Electronic Health Records (EHR) Proficiency"
     },
     {
-      "role": "Account Manager",
-      "demand": "High",
+      "role": "Account Executive",
+      "demand": "Medium",
       "top_skill": "CRM Software (e.g., Salesforce)"
     },
     {
       "role": "HR Generalist",
       "demand": "Medium",
-      "top_skill": "HRIS Management"
+      "top_skill": "HR Information Systems (HRIS) Management"
     }
   ]
 }
