@@ -817,5 +817,14 @@
     "score": 60,
     "reason": "The job title aligns with a target role, but without a description, specific skill alignment with core tools (SQL, Power BI, Workday) and HR relevance cannot be assessed for a higher score.",
     "date": "2026-10-13"
+  },
+  {
+    "id": "li-4478464903",
+    "title": "IT Support Specialist",
+    "company": "Ledgent Technology",
+    "url": "https://www.linkedin.com/jobs/view/4478464903",
+    "score": 80,
+    "reason": "This role aligns perfectly with the candidate's target roles and IT training background, suitable for an entry/mid-level position.",
+    "date": "2026-10-15"
   }
 ]
