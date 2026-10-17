@@ -826,5 +826,32 @@
     "score": 80,
     "reason": "This role aligns perfectly with the candidate's target roles and IT training background, suitable for an entry/mid-level position.",
     "date": "2026-10-15"
+  },
+  {
+    "id": "li-4477341549",
+    "title": "Talent Analyst, HR Technology",
+    "company": "Howmet Aerospace",
+    "url": "https://www.linkedin.com/jobs/view/4477341549",
+    "score": 95,
+    "reason": "The job title strongly aligns with HR technology, analysis, and the candidate's HR operations background and core skills, indicating a high match.",
+    "date": "2026-10-17"
+  },
+  {
+    "id": "li-4454332921",
+    "title": "Oracle HCM Cloud Core HR Analyst",
+    "company": "Deloitte",
+    "url": "https://www.linkedin.com/jobs/view/4454332921",
+    "score": 85,
+    "reason": "This is a strong HR-related role matching the candidate's HR operations background and HRIS Analyst target, despite the specific HRIS platform differing from their core Workday skill.",
+    "date": "2026-10-17"
+  },
+  {
+    "id": "li-4472643124",
+    "title": "Oracle HCM Cloud Analyst, Intermediate",
+    "company": "UPMC",
+    "url": "https://www.linkedin.com/jobs/view/4472643124",
+    "score": 85,
+    "reason": "The role is an HRIS-related position at an appropriate intermediate experience level, aligning strongly with the candidate's HR operations background and skills in HCM systems.",
+    "date": "2026-10-17"
   }
 ]
